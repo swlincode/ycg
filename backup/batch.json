@@ -1,0 +1,218 @@
+[
+  {
+    "Name1": "",
+    "Name": "YC S05",
+    "Location": "Boston, MA, US",
+    "Cohort Date": "6/2005",
+    "# Co's": 9,
+    "Exit Value": "$          71,658,100",
+    "Funding Total": "$          90,103,705"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W06",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2006",
+    "# Co's": 7,
+    "Exit Value": "$          39,000,000",
+    "Funding Total": "$          71,670,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S06",
+    "Location": "Boston, MA, US",
+    "Cohort Date": "6/2006",
+    "# Co's": 10,
+    "Exit Value": "$         248,000,000",
+    "Funding Total": "$         106,114,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W07",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2007",
+    "# Co's": 13,
+    "Exit Value": "$         983,000,000",
+    "Funding Total": "$          76,806,762"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S07",
+    "Location": "Boston, MA, US",
+    "Cohort Date": "6/2007",
+    "# Co's": 19,
+    "Exit Value": "$          30,000,000",
+    "Funding Total": "$       1,783,224,999"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W08",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2008",
+    "# Co's": 20,
+    "Exit Value": "$         285,000,000",
+    "Funding Total": "$         407,319,400"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S08",
+    "Location": "Boston, MA, US",
+    "Cohort Date": "6/2008",
+    "# Co's": 23,
+    "Exit Value": "$          15,200,000",
+    "Funding Total": "$          31,035,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W09",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2009",
+    "# Co's": 16,
+    "Exit Value": "$          88,000,000",
+    "Funding Total": "$       4,409,207,100"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S09",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2009",
+    "# Co's": 29,
+    "Exit Value": "$          58,125,000",
+    "Funding Total": "$         669,875,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W10",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2010",
+    "# Co's": 27,
+    "Exit Value": "$         245,600,000",
+    "Funding Total": "$         176,922,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S10",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2010",
+    "# Co's": 36,
+    "Exit Value": "$         255,000,000",
+    "Funding Total": "$         368,976,617"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W11",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2011",
+    "# Co's": 45,
+    "Exit Value": "$          70,000,000",
+    "Funding Total": "$         356,468,972"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S11",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2011",
+    "# Co's": 64,
+    "Exit Value": "$         317,800,000",
+    "Funding Total": "$         553,676,402"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W12",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2012",
+    "# Co's": 65,
+    "Exit Value": "$         100,000,000",
+    "Funding Total": "$       1,043,961,057"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S12",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2012",
+    "# Co's": 87,
+    "Exit Value": "$           3,500,000",
+    "Funding Total": "$       1,105,595,416"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W13",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2013",
+    "# Co's": 48,
+    "Exit Value": "$          15,000,000",
+    "Funding Total": "$       1,156,947,059"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S13",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2013",
+    "# Co's": 55,
+    "Exit Value": "$             350,000",
+    "Funding Total": "$         521,084,000"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W14",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2014",
+    "# Co's": 75,
+    "Exit Value": "$       1,000,000,000",
+    "Funding Total": "$         560,548,588"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S14",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2014",
+    "# Co's": 86,
+    "Exit Value": "$          20,000,000",
+    "Funding Total": "$         440,092,768"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W15",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2015",
+    "# Co's": 113,
+    "Exit Value": "",
+    "Funding Total": "$         404,552,131"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S15",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2015",
+    "# Co's": 107,
+    "Exit Value": "",
+    "Funding Total": "$         177,404,976"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W16",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2016",
+    "# Co's": 123,
+    "Exit Value": "",
+    "Funding Total": "$         210,442,429"
+  },
+  {
+    "Name1": "",
+    "Name": "YC S16",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "6/2016",
+    "# Co's": 96,
+    "Exit Value": "",
+    "Funding Total": "$          96,552,068"
+  },
+  {
+    "Name1": "",
+    "Name": "YC W17",
+    "Location": "Mountain View, CA, US",
+    "Cohort Date": "1/2017",
+    "# Co's": 103,
+    "Exit Value": "",
+    "Funding Total": "$          30,737,211"
+  }
+]

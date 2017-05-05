@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>YC Graph</title>
+<!--    <script type="text/javascript" src="js/d3.js"></script>-->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+</head>
+
+<body>
+    <svg width="1900" height="1500"></svg>
+
+    <script>
+
+
+        d3.csv("lists_edit.csv", function(d) {
+            //    var fDataSet = dataSet.filter(function(d){
+            //    return d.amount > 1000000000 && d.date === "2016/8/1" && d.cid ==="A";
+            //});
+            bind(d);
+            render();
+        });
+        
+//        function mid(d) {
+////                    d.ExitValue = parseInt;
+//            //        d.ExitValue = parseFloat;
+//                    d.ExitValue = +d.ExitValue;
+//        }
+
+        function bind(dataSet) {
+                console.log("bind debug"); //debug
+
+                var selection = d3.select("svg")
+                .selectAll("rect")
+                .data(dataSet);
+                selection.enter().append("rect");
+                selection.exit().remove();
+
+                var selection_text = d3.select("svg")
+                .selectAll("text")
+                .data(dataSet);
+                selection_text.enter().append("text");
+                selection_text.exit().remove();
+        };
+
+        function render() {
+                    console.log("render debug"); //debug
+                    var xScale = d3.scale.linear()
+                        .domain([0,50000000])
+                        .range([0,100]);
+//                        .clamp(true);
+
+                    d3.selectAll("rect")
+                        .attr({
+                        x: 300,
+                        y: function(d,i){
+                            return 10+20*i;
+                        },
+                      width: function(d,i){
+                          return xScale(d.Funding);
+                        },
+                        height: 18,
+                        fill: "red"
+                    });
+            
+
+                    d3.selectAll("text")
+                        .attr({
+                            x: 10,
+                            y: function(d, i) {
+                                return 25 + 20 * i;
+                            }
+                        })
+                        .text(function(d) {
+                            return [d.Name,d.State,d.CohortDate, d.ExitValue, d.Funding];
+                        }
+                        );
+        };
+
+    </script>
+</body>
+
+</html>
