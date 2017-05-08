@@ -1,84 +1,166 @@
 <!doctype html>
 <html>
-
 <head>
     <meta charset="UTF-8">
-    <title>YC Graph</title>
-<!--    <script type="text/javascript" src="js/d3.js"></script>-->
-<script src="https://d3js.org/d3.v3.min.js"></script>
+    <title>yc2d</title>
+    <script src="https://d3js.org/d3.v3.js"></script>
+    <style>
+        body{
+            background: #eee;
+        }
+        .axis path, .axis line{
+            fill: none;
+            stroke: black;
+            stroke-width: 3px;
+            shape-rendering: auto;
+        }
+        .axis text {
+            fill: blue;
+/*            rotate: 10;*/
+        }
+    </style>
 </head>
-
 <body>
-    <svg width="1900" height="1500"></svg>
-
     <script>
-
-
-        d3.csv("lists_edit.csv", function(d) {
-            //    var fDataSet = dataSet.filter(function(d){
-            //    return d.amount > 1000000000 && d.date === "2016/8/1" && d.cid ==="A";
-            //});
-            bind(d);
-            render();
+        // 1. 定義width, height, padding, letterList變數
+        var w = 900;
+        var h = 500;
+        var p = 50;
+//        var letterList = ["A","B","C","D","E","F",
+//                          "G","H","I","J","K","M",
+//                          "N","O","P","Q","T","U",
+//                          "V","W","X","Z"];
+        
+        //2. 建立svg()畫布環境
+        
+        svg();       
+        
+        //3. 用d3讀取csv
+        d3.csv("arch/list_clean.csv", mid, function(dataSet){
+//           console.log(dataSet);
+           bind(dataSet);
+           render(dataSet);
+            
         });
         
-//        function mid(d) {
-////                    d.ExitValue = parseInt;
-//            //        d.ExitValue = parseFloat;
-//                    d.ExitValue = +d.ExitValue;
-//        }
-
-        function bind(dataSet) {
-                console.log("bind debug"); //debug
-
-                var selection = d3.select("svg")
-                .selectAll("rect")
-                .data(dataSet);
-                selection.enter().append("rect");
-                selection.exit().remove();
-
-                var selection_text = d3.select("svg")
-                .selectAll("text")
-                .data(dataSet);
-                selection_text.enter().append("text");
-                selection_text.exit().remove();
+        function mid(d){
+            d.ExitValue = +d.ExitValue;
+            d.Funding = +d.Funding;
+            return d;
+        }
+        
+        
+        
+        function svg(){
+           d3.select("body").append("svg").attr({
+                width: w,
+                height: h
+           });
+            d3.select("svg").append("g").append("rect").attr({
+                width: "100%",
+                height: "100%",
+                fill: "white"
+            });
         };
+        
+        //4. 建立bind()
 
-        function render() {
-                    console.log("render debug"); //debug
-                    var xScale = d3.scale.linear()
-                        .domain([0,50000000])
-                        .range([0,100]);
-//                        .clamp(true);
-
-                    d3.selectAll("rect")
-                        .attr({
-                        x: 300,
-                        y: function(d,i){
-                            return 10+20*i;
-                        },
-                      width: function(d,i){
-                          return xScale(d.Funding);
-                        },
-                        height: 18,
-                        fill: "red"
-                    });
+        function bind(dataSet){
+            var selection = d3.select("svg")
+                            .selectAll("circle")
+                            .data(dataSet);
             
+            selection.enter().append("circle");
+            selection.exit().remove();
+    
+        
+            var selection_text = d3.select("svg")
+                          .selectAll("text")
+                          .data(dataSet);
+              selection_text.enter().append("text");
+              selection_text.exit().remove();
+    }  
+        
+        function render(dataSet){
+            //5. 定義xScale,yScale,rScale, fScale比例尺(range目的在決定在svg上位置)
 
-                    d3.selectAll("text")
-                        .attr({
-                            x: 10,
-                            y: function(d, i) {
-                                return 25 + 20 * i;
-                            }
-                        })
-                        .text(function(d) {
-                            return [d.Name,d.State,d.CohortDate, d.ExitValue, d.Funding];
-                        }
-                        );
-        };
-
+           var xScale = d3.time.scale()
+                    .domain([
+                        new Date("2005-06-01"),
+                        new Date("2017-01-01")
+                    ])
+                    .range([p,w-p]);
+           var yScale = d3.scale.linear()
+                    .domain([0, d3.max(dataSet, function(d){
+//                        return d.Funding;
+                        return d.ExitValue / 100;
+                    })])
+                    .range([h-p,p]);
+           var rScale = d3.scale.linear()
+                    .domain([d3.min(dataSet, function(d){
+//                        return d.ExitValue;
+                        return d.Funding;
+                    }),d3.max(dataSet, function(d){
+//                        return d.ExitValue;
+                        return d.Funding;
+                    })]
+                           )
+                    .range([5,1000]);
+            
+           var fScale = d3.scale.category10();
+            
+            //7.產生座標X
+            var xAxis = d3.svg.axis()
+                .scale(xScale)
+                .orient("bottom") //預設就是bottom
+                .ticks(20); //刻度數量
+//                .tickFormat(funciton(d){
+//                            return d/10000+"萬"; //刻度換算成固定單位
+//                            })
+            // 產生座標Y
+            var yAxis = d3.svg.axis()
+                .scale(yScale)
+                .orient("left")
+                .ticks(6)
+                .tickFormat(function(d){
+                    return d/1000000+"m"; //百萬
+                });
+            
+            // X軸
+            d3.select("svg").append("g")
+                .attr({
+                    "class": "axis",
+                    "transform": "translate(0,"+(h-p+25)+")"
+                    })
+                .call(xAxis);
+            // Y軸
+            d3.select("svg").append("g")
+                .attr({
+                    "class": "axis",
+                    "transform": "translate(44,"+(15)+")"
+                    })
+                .call(yAxis);
+            
+            //6. 建立render()繪圖
+            d3.selectAll("circle")
+              .attr({
+                cx: function(d){
+                    return xScale(new Date(d.CohortDate));
+                },
+                cy: function(d){
+                    return yScale(d.Funding);
+                },
+                r: function(d){
+                    return rScale(d.ExitValue);
+                },
+                fill: function(d){
+                    return fScale(d.State);
+                }
+              })
+            
+        
+        }
     </script>
-</body>
 
+</body>
 </html>
