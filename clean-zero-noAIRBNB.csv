@@ -1,0 +1,833 @@
+State,Name,CohortDate,ExitValue,Funding,Categorie,CateNum
+Alive,Zenefits,2013-01-01,0,583600000,Consumer,3
+Alive,Stripe,2009-06-01,0,440000000,B2B,1
+Alive,Machine Zone,2008-01-01,0,390300000,Consumer,3
+Alive,LendUp,2012-01-01,0,361500000,Fintech,6
+Alive,Gusto,2012-01-01,0,253100000,B2B,1
+Alive,Memebox,2014-01-01,0,229620000,Marketplace,8
+Alive,DoorDash,2013-06-01,0,186700000,Consumer,3
+Alive,Ginko Bioworks,2014-06-01,0,154120000,Biomedical,2
+Alive,Optimizely,2010-01-01,0,146200000,Developer Tools,4
+Alive,Thalmic Labs (Myo),2013-01-01,0,135606990,Hardware,7
+Alive,Coinbase,2012-06-01,0,117209590,Fintech,6
+Alive,Airware,2013-01-01,0,109550000,Enterprise,5
+Alive,Flexport,2014-01-01,0,94000000,Consumer,3
+Alive,PagerDuty,2010-06-01,0,83600000,Developer Tools,4
+Alive,MemSQL,2011-01-01,0,78100000,Developer Tools,4
+Alive,Mixpanel,2009-06-01,0,77015000,Consumer,3
+Alive,WePay,2009-06-01,0,74150000,Consumer,3
+Alive,Meta Space Glasses,2013-06-01,0,73000000,Hardware,7
+Alive,Clustrix,2006-01-01,0,71650000,Consumer,3
+Alive,Rigetti Computing,2014-06-01,0,69200000,Hardware,7
+Alive,E la Carte,2010-06-01,0,67500000,B2B,1
+Alive,MatterPort,2012-01-01,0,61000000,Enterprise,5
+Alive,Songkick,2007-06-01,0,60815000,Marketplace,8
+Alive,Vidyard,2011-06-01,0,60650000,B2B,1
+Alive,PlanGrid,2012-01-01,0,59100000,B2B,1
+Alive,Genius,2011-06-01,0,56900000,B2B,1
+Alive,Teespring,2013-01-01,0,56875000,Consumer,3
+Alive,Sift Science,2011-06-01,0,53600000,Enterprise,5
+Alive,Le Tote,2013-06-01,0,52500000,Marketplace,8
+Alive,CoreOS,2013-06-01,0,50000000,Developer Tools,4
+Alive,Checkr,2014-06-01,0,49120000,Consumer,3
+Alive,Scribd,2006-06-01,0,47762000,B2B,1
+Alive,Clever,2012-06-01,0,46320000,Education,5
+Alive,Interana,2013-01-01,0,46199999,Enterprise,5
+Alive,Comprehend Systems,2011-01-01,0,45696000,B2B,1
+Alive,Segment.io,2011-06-01,0,44720000,B2B,1
+Alive,Five Stars,2011-01-01,0,42650000,B2B,1
+Alive,Codecademy,2011-06-01,0,42500000,Education,5
+Alive,Weebly,2007-01-01,0,39826763,B2B,1
+Alive,FarmLogs,2012-01-01,0,37000000,Consumer,3
+Alive,6sense,2013-01-01,0,36000000,Enterprise,5
+Alive,Kamcord,2012-06-01,0,35270000,Consumer,3
+Alive,Boom,2016-01-01,0,35240000,Hardware,7
+Alive,EquipmentShare,2015-01-01,0,33720000,B2B,1
+Alive,Lever,2012-06-01,0,32800000,Consumer,3
+Alive,GrubMarket,2015-01-01,0,32100000,Marketplace,8
+Alive,Meteor,2011-06-01,0,31200000,Developer Tools,4
+Alive,Science Exchange,2011-06-01,0,30500000,Marketplace,8
+Alive,BlueSmart,2015-01-01,0,29500000,B2B,1
+Alive,Realm,2011-06-01,0,29000000,Developer Tools,4
+Alive,Your Mechanic,2012-01-01,0,28000000,Consumer,3
+Alive,Transcriptic,2015-01-01,0,27770000,Hardware,7
+Alive,WayUp,2015-01-01,0,27468000,Marketplace,8
+Alive,uBiome,2014-06-01,0,26971193,Developer Tools,4
+Alive,Anyperk,2012-01-01,0,25850000,Consumer,3
+Alive,GitLab,2015-01-01,0,25620000,Developer Tools,4
+Alive,Eligible,2012-06-01,0,25200000,Enterprise,5
+Alive,InfluxData,2013-01-01,0,24892000,Developer Tools,4
+Alive,GoCardless,2011-06-01,0,24800000,Consumer,3
+Alive,HackerRank,2011-06-01,0,24199995,Developer Tools,4
+Alive,SmartAsset,2012-06-01,0,23431095,Marketplace,8
+Alive,Algolia,2014-01-01,0,22220043,Developer Tools,4
+Alive,Quartzy,2011-06-01,0,22200000,Education,5
+Alive,Swiftype,2012-01-01,0,22200000,Consumer,3
+Alive,Move Loot,2014-01-01,0,21800000,Marketplace,8
+Alive,Casetext,2013-06-01,0,20800000,Consumer,3
+Alive,Weave Communications,2014-01-01,0,20500000,Consumer,3
+Alive,Rescale,2012-01-01,0,20400000,Enterprise,5
+Alive,LeadGenius,2011-06-01,0,20000000,Enterprise,5
+Alive,Dr Chrono,2011-01-01,0,18725000,Hardware,7
+Alive,Virool,2012-06-01,0,18620000,Consumer,3
+Alive,Apptimize,2013-06-01,0,18500000,Developer Tools,4
+Alive,42floors,2012-01-01,0,17400000,B2B,1
+Alive,Mattermark,2012-06-01,0,17200000,B2B,1
+Alive,Rocketrip,2014-01-01,0,17175000,Education,5
+Alive,Chute,2012-01-01,0,16819997,Enterprise,5
+Alive,AirHelp,2014-01-01,0,16700000,Consumer,3
+Alive,Thread,2012-06-01,0,16322190,Consumer,3
+Alive,Rainforest QA,2012-06-01,0,16170000,Developer Tools,4
+Alive,Flirtey,2015-06-01,0,16040875,Consumer,3
+Alive,Panorama Education,2013-06-01,0,16000000,Education,5
+Alive,AeroFS,2010-06-01,0,15500000,Enterprise,5
+Alive,ClearTax,2014-06-01,0,15420000,Biomedical,2
+Alive,analyticsMD,2015-01-01,0,15120000,Enterprise,5
+Alive,Gobble,2014-01-01,0,14823000,Marketplace,8
+Alive,BuildZoom,2013-01-01,0,14563000,Marketplace,8
+Alive,Estimote,2013-06-01,0,13800000,Developer Tools,4
+Alive,Front,2014-06-01,0,13250000,B2B,1
+Alive,Citus Data,2011-06-01,0,13150000,Developer Tools,4
+Alive,Lygos,2016-01-01,0,13120000,Consumer,3
+Alive,Goldbely,2013-01-01,0,13000000,Marketplace,8
+Alive,Heap Analytics,2013-01-01,0,13000000,Developer Tools,4
+Alive,Benchling,2012-06-01,0,12900000,Hardware,7
+Alive,Gigster,2015-06-01,0,12500000,B2B,1
+Alive,Magic,2015-01-01,0,12120000,Hardware,7
+Alive,Helion Energy,2014-06-01,0,12114202,Hardware,7
+Alive,Indinero,2010-06-01,0,12041526,Biomedical,2
+Alive,Mux,2016-01-01,0,11920000,Hardware,7
+Alive,RideCell,2012-01-01,0,11700000,Enterprise,5
+Alive,Eight,2015-06-01,0,11620000,Hardware,7
+Alive,Eight,2015-06-01,0,11620000,Hardware,7
+Alive,Razorpay,2015-01-01,0,11600000,Consumer,3
+Alive,Paperspace,2015-01-01,0,11428000,Developer Tools,4
+Alive,Listia,2009-06-01,0,11165000,Marketplace,8
+Alive,BitAccess,2014-06-01,0,11000000,Consumer,3
+Alive,Sourcery,2013-01-01,0,10952000,Developer Tools,4
+Alive,Rappi,2016-01-01,0,10940000,Developer Tools,4
+Alive,CareMessage,2014-01-01,0,10700000,Marketplace,8
+Alive,Cymmetria,2015-06-01,0,10600000,Enterprise,5
+Alive,Disqus,2007-06-01,0,10500000,Developer Tools,4
+Alive,Bitmovin,2015-06-01,0,10300001,Developer Tools,4
+Alive,Spire,2015-01-01,0,10220000,Hardware,7
+Alive,Health Sherpa,2012-06-01,0,10000000,Consumer,3
+Alive,TerrAvion,2014-01-01,0,10000000,Enterprise,5
+Alive,Function of Beauty,2016-01-01,0,9620000,Hardware,7
+Alive,Lob,2013-06-01,0,9400000,Enterprise,5
+Alive,GOAT,2011-01-01,0,9360573,Marketplace,8
+Alive,Zesty,2014-01-01,0,9200000,Enterprise,5
+Alive,Errplane,2013-01-01,0,9112000,Marketplace,8
+Alive,Final,2015-01-01,0,9100000,Marketplace,8
+Alive,Direct Match,2015-01-01,0,9000000,Biomedical,2
+Alive,SigOpt,2015-01-01,0,8720000,B2B,1
+Alive,SimplyInsured,2013-01-01,0,8400000,Consumer,3
+Alive,Boostable,2014-01-01,0,8222000,Hardware,7
+Alive,Unbabel,2014-01-01,0,8000000,Biomedical,2
+Alive,Labdoor,2015-01-01,0,7990587,Marketplace,8
+Alive,PetCube,2016-01-01,0,7761000,B2B,1
+Alive,Survata,2012-06-01,0,7717000,Consumer,3
+Alive,Protonet,2016-01-01,0,7654742,Consumer,3
+Alive,Bloomthat,2013-06-01,0,7600000,Developer Tools,4
+Alive,Sharethebus,2016-01-01,0,7411399,Hardware,7
+Alive,Perlara,2016-01-01,0,7320000,B2B,1
+Alive,The Muse,2012-01-01,0,7316522,Consumer,3
+Alive,Cleanly,2015-01-01,0,7300000,Enterprise,5
+Alive,Imgix,2011-06-01,0,7164000,Consumer,3
+Alive,Jumpcut,2016-06-01,0,7120000,Education,5
+Alive,Willing,2015-06-01,0,7120000,Consumer,3
+Alive,Rippling,2017-01-01,0,7000000,Hardware,7
+Alive,True Link Financial,2013-06-01,0,7000000,Consumer,3
+Alive,DroneBase,2015-01-01,0,6957370,Marketplace,8
+Alive,Click & Grow,2015-06-01,0,6922029,Hardware,7
+Alive,Deako,2016-01-01,0,6790000,Consumer,3
+Alive,Chart.io,2010-06-01,0,6770000,Consumer,3
+Alive,CloudMedX,2015-01-01,0,6600000,Enterprise,5
+Alive,Atomwise,2015-01-01,0,6570000,Hardware,7
+Alive,Wevorce,2013-01-01,0,6545962,B2B,1
+Alive,Custora,2011-01-01,0,6500000,Marketplace,8
+Alive,FundersClub,2012-06-01,0,6500000,Hardware,7
+Alive,JustRide,2016-06-01,0,6400000,Marketplace,8
+Alive,Smyte,2015-06-01,0,6250000,Consumer,3
+Alive,Suiteness,2016-06-01,0,6120000,Consumer,3
+Alive,Regalii,2013-06-01,0,6000000,Consumer,3
+Alive,ZeroCater,2011-01-01,0,5599999,Developer Tools,4
+Alive,BlockStack Labs,2014-06-01,0,5450000,Developer Tools,4
+Alive,Nurx,2016-01-01,0,5420000,Developer Tools,4
+Alive,Popular Pays,2015-01-01,0,5420000,Consumer,3
+Alive,Aisle50,2011-06-01,0,5200000,Consumer,3
+Alive,EveryMe,2011-06-01,0,5163408,Consumer,3
+Alive,Seed,2015-01-01,0,5120000,Fintech,6
+Alive,Pigeonly,2015-01-01,0,5089999,Consumer,3
+Alive,ShipBob,2014-06-01,0,5020000,Biomedical,2
+Alive,flexReceipts,2016-01-01,0,5009415,Consumer,3
+Alive,Clara Labs,2014-06-01,0,5000000,Enterprise,5
+Alive,MinoMonsters,2011-01-01,0,4868000,Fintech,6
+Alive,Taplytics,2014-01-01,0,4800000,Developer Tools,4
+Alive,Watsi,2013-01-01,0,4700000,Marketplace,8
+Alive,Joy,2016-06-01,0,4620000,Consumer,3
+Alive,Varden Labs,2016-01-01,0,4620000,Consumer,3
+Alive,Luka,2015-01-01,0,4540000,Consumer,3
+Alive,Bellabeat,2014-01-01,0,4519913,Hardware,7
+Alive,PlateIQ,2015-06-01,0,4500000,Developer Tools,4
+Alive,Notable Labs,2015-01-01,0,4488500,Consumer,3
+Alive,Humble Bundle,2011-01-01,0,4480000,Consumer,3
+Alive,Ark,2012-01-01,0,4450000,Hardware,7
+Alive,CareSkore,2016-01-01,0,4420000,Enterprise,5
+Alive,Lumoid,2013-06-01,0,4400000,Marketplace,8
+Alive,Upverter,2011-01-01,0,4378571,Developer Tools,4
+Alive,Jopwell,2015-06-01,0,4250000,Consumer,3
+Alive,VayCayHero,2013-01-01,0,4186500,Marketplace,8
+Alive,Flex,2016-06-01,0,4120000,Consumer,3
+Alive,Kickback,2015-01-01,0,4120000,Marketplace,8
+Alive,OOHLALA,2016-06-01,0,4120000,Developer Tools,4
+Alive,Beep,2014-06-01,0,4000000,Hardware,7
+Alive,CrateJoy,2013-06-01,0,4000000,Consumer,3
+Alive,TL Biolabs,2016-06-01,0,4000000,B2B,1
+Alive,Scentbird,2015-06-01,0,3840000,Developer Tools,4
+Alive,Amicus,2012-06-01,0,3780000,Hardware,7
+Alive,Sixa,2016-06-01,0,3761854,Consumer,3
+Alive,Verbling,2011-06-01,0,3720000,Marketplace,8
+Alive,GO1,2015-06-01,0,3713944,Enterprise,5
+Alive,Validere,2016-06-01,0,3681037,Hardware,7
+Alive,Coub,2016-06-01,0,3620000,Developer Tools,4
+Alive,BlockSpring,2014-06-01,0,3520000,Consumer,3
+Alive,Abacus,2014-01-01,0,3500000,Consumer,3
+Alive,Captain 401,2015-06-01,0,3500000,Biomedical,2
+Alive,EasyPost,2013-06-01,0,3450000,Developer Tools,4
+Alive,OwnLocal,2010-01-01,0,3447000,Consumer,3
+Alive,Wheelys Cafe,2015-06-01,0,3443586,Consumer,3
+Alive,Nova Credit,2016-06-01,0,3420000,Biomedical,2
+Alive,Natero,2012-06-01,0,3334176,Consumer,3
+Alive,Skymind,2016-01-01,0,3320000,Enterprise,5
+Alive,OnboardIQ,2015-06-01,0,3300000,Enterprise,5
+Alive,Tastemaker,2012-06-01,0,3220985,Marketplace,8
+Alive,BlueCrew,2015-06-01,0,3220000,Consumer,3
+Alive,MailTime,2016-01-01,0,3211250,Developer Tools,4
+Alive,Proxy,2016-06-01,0,3200000,Developer Tools,4
+Alive,CrowdMed,2013-01-01,0,3145000,Marketplace,8
+Alive,Revlo,2016-06-01,0,3100000,Consumer,3
+Alive,Riley,2017-01-01,0,3100000,Hardware,7
+Alive,Confident Cannibas,2015-06-01,0,3000000,Developer Tools,4
+Alive,HighlightCam,2009-06-01,0,3000000,Consumer,3
+Alive,Smarking,2015-01-01,0,3000000,Consumer,3
+Alive,Snapdocs,2014-01-01,0,3000000,Consumer,3
+Alive,SwapBox,2013-01-01,0,3000000,Consumer,3
+Alive,Triplebyte,2015-06-01,0,3000000,Developer Tools,4
+Alive,Wakie,2016-01-01,0,3000000,Hardware,7
+Alive,Edyn,2014-01-01,0,2970000,Hardware,7
+Alive,CribSpot,2015-01-01,0,2927034,Marketplace,8
+Alive,Lattice,2016-01-01,0,2920000,Consumer,3
+Alive,Wallarm,2016-06-01,0,2920000,Developer Tools,4
+Alive,Circle Medical,2015-06-01,0,2900000,Hardware,7
+Alive,Webflow,2013-06-01,0,2900000,Consumer,3
+Alive,Valor Water Analytics,2015-01-01,0,2840000,Enterprise,5
+Alive,Cofactor Genomics,2015-06-01,0,2830000,Education,5
+Alive,9GAG,2012-06-01,0,2800000,Marketplace,8
+Alive,TradeBlock,2014-01-01,0,2800000,Enterprise,5
+Alive,Zenysis,2016-01-01,0,2800000,Enterprise,5
+Alive,Castle,2016-01-01,0,2772000,Consumer,3
+Alive,Kalibrr,2013-01-01,0,2770000,Consumer,3
+Alive,Miso,2016-06-01,0,2700000,Consumer,3
+Alive,Msg.ai,2016-01-01,0,2700000,Consumer,3
+Alive,Two Tap,2014-01-01,0,2700000,Developer Tools,4
+Alive,One Month Rails,2013-06-01,0,2684000,Developer Tools,4
+Alive,Pluot,2016-01-01,0,2620000,Enterprise,5
+Alive,RedCarpetUp,2015-06-01,0,2620000,Education,5
+Alive,Tenjin,2014-06-01,0,2620000,Consumer,3
+Alive,Yhat,2015-01-01,0,2620000,Developer Tools,4
+Alive,Zen99,2014-06-01,0,2620000,Developer Tools,4
+Alive,DocTalk,2017-01-01,0,2600000,Developer Tools,4
+Alive,Zapier,2012-06-01,0,2562000,Developer Tools,4
+Alive,Keychain Logistics,2012-06-01,0,2520000,Marketplace,8
+Alive,AptDeco,2014-01-01,0,2515000,Marketplace,8
+Alive,Prizeo,2013-01-01,0,2500000,Consumer,3
+Alive,TrueVault,2014-01-01,0,2500000,Developer Tools,4
+Alive,Xfers,2015-06-01,0,2500000,Fintech,6
+Alive,Klarismo,2015-06-01,0,2487070,Marketplace,8
+Alive,YesGraph,2016-06-01,0,2420000,Consumer,3
+Alive,Castle.io,2016-01-01,0,2360000,Consumer,3
+Alive,Tovala,2016-01-01,0,2355603,Consumer,3
+Alive,Looklive,2016-06-01,0,2349331,Marketplace,8
+Alive,VOIQ,2015-06-01,0,2345000,Enterprise,5
+Alive,WeFunder,2013-01-01,0,2330000,Consumer,3
+Alive,Moltin,2015-01-01,0,2321891,Developer Tools,4
+Alive,Padlet,2013-01-01,0,2320000,Developer Tools,4
+Alive,ZenProspect,2016-01-01,0,2320000,Consumer,3
+Alive,Celery,2012-06-01,0,2300000,Fintech,6
+Alive,Sendwithus,2014-01-01,0,2300000,Consumer,3
+Alive,The Athletic,2016-06-01,0,2300000,Hardware,7
+Alive,VIVE,2015-06-01,0,2300000,Consumer,3
+Alive,AlphaFlow,2016-01-01,0,2280474,Developer Tools,4
+Alive,Booktrope,2015-01-01,0,2270000,Consumer,3
+Alive,Submittable,2012-06-01,0,2250000,Developer Tools,4
+Alive,20n,2015-01-01,0,2220000,Consumer,3
+Alive,Meadow,2015-01-01,0,2220000,Enterprise,5
+Alive,Platzi,2015-01-01,0,2220000,Consumer,3
+Alive,Yoshi,2016-06-01,0,2220000,Developer Tools,4
+Alive,Cambly,2014-01-01,0,2204365,Enterprise,5
+Alive,Lockitron,2009-06-01,0,2200000,Hardware,7
+Alive,Shift Payments,2014-06-01,0,2200000,Fintech,6
+Alive,SketchDeck,2014-01-01,0,2200000,Consumer,3
+Alive,Upcall,2017-01-01,0,2190000,Enterprise,5
+Alive,Semantics3,2013-01-01,0,2150000,Fintech,6
+Alive,Instant eSports,2015-06-01,0,2130000,Marketplace,8
+Alive,CrowdAI,2016-06-01,0,2120000,Consumer,3
+Alive,Instabug,2016-01-01,0,2120000,Developer Tools,4
+Alive,Landed,2016-01-01,0,2120000,Marketplace,8
+Alive,MTailor,2014-06-01,0,2120000,Consumer,3
+Alive,Pachyderm,2015-01-01,0,2120000,Developer Tools,4
+Alive,PicnicHealth,2014-06-01,0,2120000,Consumer,3
+Alive,ROSS Intelligence,2015-06-01,0,2120000,Enterprise,5
+Alive,ScopeAR,2015-06-01,0,2120000,Enterprise,5
+Alive,Auro Robotics,2015-06-01,0,2100000,Hardware,7
+Alive,CodeCombat,2014-01-01,0,2100000,Education,5
+Alive,Lully,2015-01-01,0,2100000,Hardware,7
+Alive,Payable,2014-06-01,0,2100000,Developer Tools,4
+Alive,Payable,2014-06-01,0,2100000,Developer Tools,4
+Alive,Vayable,2012-06-01,0,2100000,Marketplace,8
+Alive,Outbound,2015-01-01,0,2070000,Hardware,7
+Alive,Canopy Labs,2012-06-01,0,2064000,Consumer,3
+Alive,GitPrime,2016-01-01,0,2037330,Developer Tools,4
+Alive,BlockScore,2014-06-01,0,2025000,Consumer,3
+Alive,AgileMD,2011-06-01,0,2000000,Consumer,3
+Alive,Ambition,2014-01-01,0,2000000,Hardware,7
+Alive,Interviewed,2015-06-01,0,2000000,Enterprise,5
+Alive,Iris Automations,2016-06-01,0,2000000,Hardware,7
+Alive,Kash,2014-06-01,0,2000000,Consumer,3
+Alive,Lollicam,2016-06-01,0,2000000,Hardware,7
+Alive,MixRank,2011-06-01,0,2000000,Consumer,3
+Alive,OneSignal,2011-06-01,0,2000000,Developer Tools,4
+Alive,Second Measure,2015-06-01,0,2000000,Enterprise,5
+Alive,Shoptiques,2012-01-01,0,2000000,Marketplace,8
+Alive,Sliced Investing,2014-06-01,0,2000000,Consumer,3
+Alive,Her,2015-06-01,0,1994645,Hardware,7
+Alive,Magic Instruments,2016-01-01,0,1970000,Consumer,3
+Alive,Streamup,2016-01-01,0,1930000,Consumer,3
+Alive,DeepGram,2016-01-01,0,1920000,Fintech,6
+Alive,WorkRamp,2016-06-01,0,1920000,Enterprise,5
+Alive,Double Robotics,2012-06-01,0,1900000,Hardware,7
+Alive,Lawn Love,2014-06-01,0,1900000,Marketplace,8
+Alive,Truebill,2016-01-01,0,1900000,Consumer,3
+Alive,Tagstand,2011-06-01,0,1850000,Fintech,6
+Alive,PersistIQ,2014-06-01,0,1820000,Developer Tools,4
+Alive,Filestack,2012-06-01,0,1800000,Marketplace,8
+Alive,Gigwell,2016-01-01,0,1770000,Consumer,3
+Alive,Plivo,2012-06-01,0,1750000,Enterprise,5
+Alive,Women.com,2014-06-01,0,1750000,Developer Tools,4
+Alive,HigherMe,2015-01-01,0,1740000,Enterprise,5
+Alive,HistoWiz,2016-01-01,0,1714514,Hardware,7
+Alive,GinzaMetrics,2010-06-01,0,1714000,Consumer,3
+Alive,Impraise,2014-06-01,0,1704666,Consumer,3
+Alive,Bikanta,2014-06-01,0,1700000,Hardware,7
+Alive,One Degree,2014-01-01,0,1700000,Enterprise,5
+Alive,Plate Joy,2015-06-01,0,1700000,Developer Tools,4
+Alive,SoundFocus,2013-06-01,0,1700000,Consumer,3
+Alive,Priceonomics,2012-01-01,0,1670000,Consumer,3
+Alive,Vastrm,2012-06-01,0,1650000,Consumer,3
+Alive,Voodoo Manufacturing,2017-01-01,0,1650000,Enterprise,5
+Alive,Konsus,2016-01-01,0,1620000,Consumer,3
+Alive,Shift Messenger,2015-01-01,0,1620000,Fintech,6
+Alive,Toymail,2016-01-01,0,1620000,Hardware,7
+Alive,Trigger.io,2008-01-01,0,1604400,Developer Tools,4
+Alive,Dubjoy,2011-06-01,0,1600000,Marketplace,8
+Alive,RealCrowd,2013-06-01,0,1600000,Fintech,6
+Alive,PocketSuite,2016-01-01,0,1595000,Consumer,3
+Alive,Apozy,2017-01-01,0,1550000,Hardware,7
+Alive,Asseta,2013-06-01,0,1535000,Marketplace,8
+Alive,Drive Motors,2016-01-01,0,1500000,Fintech,6
+Alive,Guesty,2014-01-01,0,1500000,Hardware,7
+Alive,InsiteVR,2015-01-01,0,1500000,Education,5
+Alive,MDAcne,2017-01-01,0,1500000,Enterprise,5
+Alive,Mimir,2015-06-01,0,1500000,Education,5
+Alive,Pushbullet,2014-01-01,0,1500000,Developer Tools,4
+Alive,Zillabyte,2012-01-01,0,1500000,Developer Tools,4
+Alive,FutureLeague,2014-01-01,0,1489000,Marketplace,8
+Alive,Doblet,2014-06-01,0,1420000,Consumer,3
+Alive,Goodybag,2016-01-01,0,1420000,Enterprise,5
+Alive,Naytev,2014-06-01,0,1420000,Consumer,3
+Alive,Permutive,2014-06-01,0,1409067,Developer Tools,4
+Alive,Flynn,2014-06-01,0,1405000,Developer Tools,4
+Alive,Bridge,2011-01-01,0,1400000,Developer Tools,4
+Alive,HireArt,2012-01-01,0,1400000,Consumer,3
+Alive,MyVR,2012-01-01,0,1400000,Hardware,7
+Alive,NowJS,2011-01-01,0,1400000,Fintech,6
+Alive,Locent,2016-01-01,0,1380000,Enterprise,5
+Alive,Zeplin,2015-06-01,0,1340560,Developer Tools,4
+Alive,VetPronto,2015-01-01,0,1340000,Marketplace,8
+Alive,Carlypso,2014-06-01,0,1320000,Marketplace,8
+Alive,Parenthoods,2014-06-01,0,1320000,Consumer,3
+Alive,Convox,2015-06-01,0,1300000,Developer Tools,4
+Alive,LogDNA,2015-01-01,0,1300000,Hardware,7
+Alive,Roomstorm,2014-06-01,0,1300000,Marketplace,8
+Alive,Skylights,2016-06-01,0,1300000,Fintech,6
+Alive,Unima,2016-01-01,0,1300000,Hardware,7
+Alive,Walksource,2014-06-01,0,1300000,Hardware,7
+Alive,BulldozAIR,2016-06-01,0,1234846,Marketplace,8
+Alive,Experiment,2013-01-01,0,1230000,Marketplace,8
+Alive,ShiftLabs,2015-01-01,0,1219500,Fintech,6
+Alive,Arthena,2017-01-01,0,1200000,Enterprise,5
+Alive,Hyperink,2011-01-01,0,1200000,Consumer,3
+Alive,KidPass,2017-01-01,0,1200000,Marketplace,8
+Alive,Penny,2017-01-01,0,1200000,Hardware,7
+Alive,Saleswhale,2016-06-01,0,1200000,Consumer,3
+Alive,Simbi,2016-06-01,0,1200000,Marketplace,8
+Alive,Talkable,2011-01-01,0,1200000,Fintech,6
+Alive,CoinTent,2016-06-01,0,1195000,Fintech,6
+Alive,Greentoe,2014-06-01,0,1195000,Fintech,6
+Alive,Immunity Project,2014-01-01,0,1120000,Consumer,3
+Alive,ReadMe,2015-01-01,0,1120000,Developer Tools,4
+Alive,StyleBee,2016-01-01,0,1120000,Marketplace,8
+Alive,Chirply,2010-06-01,0,1100000,Marketplace,8
+Alive,Transcend Lighting,2015-06-01,0,1100000,Hardware,7
+Alive,Partnered,2012-06-01,0,1098400,Developer Tools,4
+Alive,NetBeez,2016-01-01,0,1045000,Enterprise,5
+Alive,Automate Ads,2015-01-01,0,1000000,Developer Tools,4
+Alive,Open Listings,2015-01-01,0,1000000,Marketplace,8
+Alive,Peer5,2017-01-01,0,1000000,Hardware,7
+Alive,Underground Cellar,2015-01-01,0,1000000,Marketplace,8
+Alive,Vize Software,2017-01-01,0,989367,Developer Tools,4
+Alive,Pulpix,2016-01-01,0,970000,Developer Tools,4
+Alive,RescueTime,2008-01-01,0,920000,Enterprise,5
+Alive,TAXA Biotechnologies,2014-06-01,0,909000,Marketplace,8
+Alive,ReelSurfer,2012-06-01,0,880000,Consumer,3
+Alive,GroupAhead,2015-01-01,0,875000,Enterprise,5
+Alive,Playment,2017-01-01,0,870000,Enterprise,5
+Alive,FlightFox,2012-06-01,0,850980,Consumer,3
+Alive,ClickFacts,2005-06-01,0,847708,Hardware,7
+Alive,NeoWize,2016-06-01,0,840000,Fintech,6
+Alive,Polymail,2016-06-01,0,820000,Consumer,3
+Alive,SimpleCitizen,2016-06-01,0,820000,Consumer,3
+Alive,Whyd,2016-06-01,0,820000,Consumer,3
+Alive,Lawdingo,2013-01-01,0,790000,Marketplace,8
+Alive,Nightingale,2014-06-01,0,780000,Enterprise,5
+Alive,Siasto,2011-01-01,0,750000,Enterprise,5
+Alive,Habit Labs,2010-06-01,0,745000,Consumer,3
+Alive,Lively,2017-01-01,0,715000,Education,5
+Alive,Roost,2014-06-01,0,710000,Developer Tools,4
+Alive,PayTango,2013-01-01,0,700000,Fintech,6
+Alive,Hogaru,2017-01-01,0,680000,Hardware,7
+Alive,Bagaveev Corporation,2015-01-01,0,655000,Hardware,7
+Alive,Watchsend,2013-06-01,0,650000,Developer Tools,4
+Alive,MashGin,2015-01-01,0,620000,Developer Tools,4
+Alive,Podium,2016-01-01,0,620000,Consumer,3
+Alive,The Ticket Fairy,2015-06-01,0,605000,Consumer,3
+Alive,Nova,2016-01-01,0,600000,Fintech,6
+Alive,Soomgo,2017-01-01,0,592105,Marketplace,8
+Alive,Flaviar,2014-06-01,0,514640,Consumer,3
+Alive,ListRunner,2014-06-01,0,500000,Marketplace,8
+Alive,Minuum,2014-01-01,0,500000,Consumer,3
+Alive,Open Invest,2015-06-01,0,500000,Hardware,7
+Alive,Snappr,2017-01-01,0,500000,Marketplace,8
+Alive,TenantTurner,2015-06-01,0,500000,Consumer,3
+Alive,Vidly / Fliggo,2008-06-01,0,500000,Marketplace,8
+Alive,Moneytis,2017-01-01,0,497637,Developer Tools,4
+Alive,Cinder,2015-01-01,0,496000,Hardware,7
+Alive,Lumi,2015-01-01,0,388000,Hardware,7
+Alive,Whirl,2014-06-01,0,375000,Consumer,3
+Alive,Volantio,2009-01-01,0,355000,Enterprise,5
+Alive,Craft Coffee,2014-06-01,0,320000,Consumer,3
+Alive,Bitrise,2017-01-01,0,316960,Developer Tools,4
+Alive,Buxfer,2007-01-01,0,315000,Fintech,6
+Alive,MessageParty,2010-06-01,0,275000,Consumer,3
+Alive,Amulyte,2013-06-01,0,255000,Hardware,7
+Alive,Documents.me,2012-01-01,0,250000,Developer Tools,4
+Alive,Lynks,2016-01-01,0,240000,Consumer,3
+Alive,Pakible,2015-01-01,0,240000,Developer Tools,4
+Alive,Markhor,2015-06-01,0,227000,Developer Tools,4
+Alive,Democracy Earth,2015-01-01,0,220000,Consumer,3
+Alive,Orankl,2014-01-01,0,201267,Consumer,3
+Alive,New Story Charity,2015-06-01,0,200000,Enterprise,5
+Alive,LocalOn,2013-06-01,0,175000,Enterprise,5
+Alive,Flutterwave,2016-06-01,0,170000,Developer Tools,4
+Alive,Treeline,2015-01-01,0,170000,Developer Tools,4
+Alive,UPower,2014-06-01,0,170000,Marketplace,8
+Alive,StoryWorth,2011-01-01,0,167000,Marketplace,8
+Alive,Scaphold.io,2017-01-01,0,165000,Developer Tools,4
+Alive,TeamNote,2015-01-01,0,161250,Consumer,3
+Alive,Pomello,2015-01-01,0,156000,Consumer,3
+Alive,Medmonk,2012-01-01,0,150177,Enterprise,5
+Alive,Luminist,2016-01-01,0,150000,Hardware,7
+Alive,YouGotListings,2011-01-01,0,150000,Developer Tools,4
+Alive,TrendMD,2016-01-01,0,149702,Developer Tools,4
+Alive,Nomiku,2015-01-01,0,145000,Fintech,6
+Alive,Copia,2016-01-01,0,140000,Developer Tools,4
+Alive,HyperPad,2014-06-01,0,140000,Consumer,3
+Alive,Ledger Investing,2017-01-01,0,140000,Consumer,3
+Alive,LendEDU,2016-01-01,0,140000,Fintech,6
+Alive,Beek,2017-01-01,0,125000,Marketplace,8
+Alive,RankScience,2017-01-01,0,125000,Developer Tools,4
+Alive,Acre Designs,2016-01-01,0,120000,Consumer,3
+Alive,Airfordable,2016-06-01,0,120000,Marketplace,8
+Alive,Airmada,2016-01-01,0,120000,Hardware,7
+Alive,Akido Labs,2015-01-01,0,120000,Enterprise,5
+Alive,Amberbox,2016-06-01,0,120000,Hardware,7
+Alive,ApolloShield,2016-06-01,0,120000,Hardware,7
+Alive,AppCanary,2015-06-01,0,120000,Developer Tools,4
+Alive,Aptible,2014-06-01,0,120000,Marketplace,8
+Alive,Aptonomy,2016-06-01,0,120000,Hardware,7
+Alive,Athelas,2016-06-01,0,120000,Hardware,7
+Alive,Backpack,2014-06-01,0,120000,Marketplace,8
+Alive,Bankjoy,2015-01-01,0,120000,Fintech,6
+Alive,Bannerman,2014-06-01,0,120000,Marketplace,8
+Alive,Bayes Impact,2014-06-01,0,120000,Marketplace,8
+Alive,Birdly,2016-01-01,0,120000,Consumer,3
+Alive,Bodyport,2015-06-01,0,120000,Consumer,3
+Alive,Bonsai,2016-01-01,0,120000,Enterprise,5
+Alive,Bright,2015-01-01,0,120000,Developer Tools,4
+Alive,BuildScience,2015-01-01,0,120000,Enterprise,5
+Alive,Burrow,2016-06-01,0,120000,Developer Tools,4
+Alive,Chaldal,2015-06-01,0,120000,Fintech,6
+Alive,Chatfuel,2016-01-01,0,120000,Fintech,6
+Alive,Chillabit,2016-01-01,0,120000,Fintech,6
+Alive,Chitter,2016-01-01,0,120000,Marketplace,8
+Alive,Compgun,2016-01-01,0,120000,Fintech,6
+Alive,ConstructVR,2016-06-01,0,120000,Developer Tools,4
+Alive,Cover,2016-01-01,0,120000,Developer Tools,4
+Alive,Curtsy,2016-06-01,0,120000,Marketplace,8
+Alive,Dealyze,2015-01-01,0,120000,Consumer,3
+Alive,DevColor,2016-06-01,0,120000,Developer Tools,4
+Alive,Diassess,2015-01-01,0,120000,Developer Tools,4
+Alive,DoseDr,2016-01-01,0,120000,Developer Tools,4
+Alive,Drip Capital,2015-06-01,0,120000,Hardware,7
+Alive,Elemeno Health,2016-06-01,0,120000,Enterprise,5
+Alive,Elucify,2016-01-01,0,120000,Enterprise,5
+Alive,Emburse,2016-01-01,0,120000,Developer Tools,4
+Alive,Emote,2016-06-01,0,120000,Developer Tools,4
+Alive,Eventgeek,2016-06-01,0,120000,Developer Tools,4
+Alive,Exponent,2016-06-01,0,120000,Developer Tools,4
+Alive,Fabric,2016-06-01,0,120000,Developer Tools,4
+Alive,Fellow,2016-06-01,0,120000,Enterprise,5
+Alive,Filp,2015-01-01,0,120000,Marketplace,8
+Alive,Foxpass,2015-06-01,0,120000,Enterprise,5
+Alive,Gecko Robotics,2016-01-01,0,120000,Hardware,7
+Alive,Gemnote,2015-06-01,0,120000,Hardware,7
+Alive,Georgette Packaging,2016-01-01,0,120000,Hardware,7
+Alive,GetAccept,2016-01-01,0,120000,Hardware,7
+Alive,Give Campus,2015-06-01,0,120000,Developer Tools,4
+Alive,Giveffect,2015-01-01,0,120000,Fintech,6
+Alive,GiveMeTap,2015-01-01,0,120000,Fintech,6
+Alive,GoGoGrandparent,2016-06-01,0,120000,Fintech,6
+Alive,GoLorry,2016-01-01,0,120000,Marketplace,8
+Alive,GovPredict,2015-06-01,0,120000,Enterprise,5
+Alive,Gradberry,2015-01-01,0,120000,Enterprise,5
+Alive,Gravitational,2015-06-01,0,120000,Developer Tools,4
+Alive,Greenshoe,2015-06-01,0,120000,Developer Tools,4
+Alive,GrowSumo,2015-06-01,0,120000,Enterprise,5
+Alive,GTrack Technologies,2016-06-01,0,120000,Hardware,7
+Alive,HauteDay,2014-06-01,0,120000,Developer Tools,4
+Alive,Haywheel,2016-06-01,0,120000,Developer Tools,4
+Alive,Heroic Labs,2015-06-01,0,120000,Developer Tools,4
+Alive,Hingeto,2016-01-01,0,120000,Enterprise,5
+Alive,HiOperator,2016-06-01,0,120000,Enterprise,5
+Alive,Hive,2014-06-01,0,120000,Hardware,7
+Alive,Hykso,2016-01-01,0,120000,Marketplace,8
+Alive,In Your Corner,2014-06-01,0,120000,Consumer,3
+Alive,Index,2016-01-01,0,120000,Consumer,3
+Alive,Industrial Microbes,2015-01-01,0,120000,Consumer,3
+Alive,InnoVein,2016-01-01,0,120000,Hardware,7
+Alive,Instavest,2015-01-01,0,120000,Marketplace,8
+Alive,Instrumentl,2016-06-01,0,120000,Enterprise,5
+Alive,Interstate Analytics,2016-01-01,0,120000,Enterprise,5
+Alive,Iron Ox,2016-01-01,0,120000,Hardware,7
+Alive,Ironclad,2015-06-01,0,120000,Enterprise,5
+Alive,jEugene,2015-06-01,0,120000,Consumer,3
+Alive,KickPay,2015-01-01,0,120000,Marketplace,8
+Alive,Kip Health,2016-01-01,0,120000,Developer Tools,4
+Alive,Kuna Systems,2014-01-01,0,120000,Hardware,7
+Alive,Leada,2015-06-01,0,120000,Enterprise,5
+Alive,Legalist,2016-06-01,0,120000,Fintech,6
+Alive,Lendsnap,2016-06-01,0,120000,Fintech,6
+Alive,Level,2015-01-01,0,120000,Fintech,6
+Alive,Livement,2016-06-01,0,120000,Enterprise,5
+Alive,Loop Genomics,2016-01-01,0,120000,Marketplace,8
+Alive,Luminostics,2016-06-01,0,120000,Hardware,7
+Alive,Magic Bus,2016-01-01,0,120000,Hardware,7
+Alive,Mason America,2016-01-01,0,120000,Developer Tools,4
+Alive,Mentat,2016-06-01,0,120000,Developer Tools,4
+Alive,MerryMint,2014-01-01,0,120000,Developer Tools,4
+Alive,Message.io,2016-01-01,0,120000,Marketplace,8
+Alive,MessageBird,2016-06-01,0,120000,Developer Tools,4
+Alive,Metapacket,2016-06-01,0,120000,Developer Tools,4
+Alive,MeterFeeder,2016-01-01,0,120000,Enterprise,5
+Alive,MetricWire,2014-06-01,0,120000,Enterprise,5
+Alive,MicroHealth,2015-06-01,0,120000,Enterprise,5
+Alive,MineralSoft,2016-01-01,0,120000,Developer Tools,4
+Alive,MixerBox,2014-01-01,0,120000,Fintech,6
+Alive,Monthli,2016-01-01,0,120000,Fintech,6
+Alive,Mosaic,2016-06-01,0,120000,Fintech,6
+Alive,mRelief,2016-01-01,0,120000,Marketplace,8
+Alive,Multiply Labs,2016-06-01,0,120000,Hardware,7
+Alive,NanoNets,2017-01-01,0,120000,Hardware,7
+Alive,Nebia,2015-06-01,0,120000,Hardware,7
+Alive,Neptune.io,2014-06-01,0,120000,Developer Tools,4
+Alive,New Incentives,2016-06-01,0,120000,Enterprise,5
+Alive,NexTravel,2015-01-01,0,120000,Enterprise,5
+Alive,Ohmygreen,2016-06-01,0,120000,Hardware,7
+Alive,OMG Digital,2016-06-01,0,120000,Hardware,7
+Alive,One Codex,2014-06-01,0,120000,Enterprise,5
+Alive,OneChronos,2016-06-01,0,120000,Developer Tools,4
+Alive,Opsolutely,2016-06-01,0,120000,Developer Tools,4
+Alive,Outschool,2016-01-01,0,120000,Hardware,7
+Alive,Paid,2014-06-01,0,120000,Developer Tools,4
+Alive,PatientBank,2016-06-01,0,120000,Developer Tools,4
+Alive,PaveIQ,2016-01-01,0,120000,Developer Tools,4
+Alive,People.ai,2016-06-01,0,120000,Hardware,7
+Alive,Physio Health,2016-01-01,0,120000,Developer Tools,4
+Alive,Poppy,2016-01-01,0,120000,Enterprise,5
+Alive,Pretty Instant,2015-01-01,0,120000,Marketplace,8
+Alive,Priime,2015-01-01,0,120000,Marketplace,8
+Alive,Quero Education,2016-06-01,0,120000,Education,5
+Alive,QueueHop,2016-01-01,0,120000,Hardware,7
+Alive,Raptor Maps,2016-06-01,0,120000,Hardware,7
+Alive,Ravti,2014-06-01,0,120000,Hardware,7
+Alive,Reduced Energy Microsystems (REM),2016-01-01,0,120000,Hardware,7
+Alive,Remix,2015-01-01,0,120000,Enterprise,5
+Alive,Restocks,2016-01-01,0,120000,Enterprise,5
+Alive,RigPlenish,2016-06-01,0,120000,Hardware,7
+Alive,Robby,2016-06-01,0,120000,Hardware,7
+Alive,RocketLit,2016-06-01,0,120000,Education,5
+Alive,Roomblocker,2015-06-01,0,120000,Education,5
+Alive,RoseRocket,2016-06-01,0,120000,Developer Tools,4
+Alive,San Francisco Open Exchange,2014-06-01,0,120000,Enterprise,5
+Alive,Scale,2016-06-01,0,120000,Hardware,7
+Alive,Scribe,2017-01-01,0,120000,Enterprise,5
+Alive,Secful,2016-01-01,0,120000,Enterprise,5
+Alive,Selfycart,2016-06-01,0,120000,Fintech,6
+Alive,SendBird,2016-01-01,0,120000,Fintech,6
+Alive,Seneca Systems,2016-06-01,0,120000,Enterprise,5
+Alive,Shotput,2015-06-01,0,120000,Marketplace,8
+Alive,Shout,2014-06-01,0,120000,Marketplace,8
+Alive,Shypmate,2016-01-01,0,120000,Marketplace,8
+Alive,Silver,2016-01-01,0,120000,Hardware,7
+Alive,SIRUM,2015-01-01,0,120000,Hardware,7
+Alive,Slidemail,2015-01-01,0,120000,Fintech,6
+Alive,SmartHires,2015-01-01,0,120000,Marketplace,8
+Alive,SmartPath,2016-06-01,0,120000,Enterprise,5
+Alive,SMARTSITE,2016-06-01,0,120000,Enterprise,5
+Alive,SnapEDA,2016-01-01,0,120000,Enterprise,5
+Alive,SOUNDBOKS,2016-01-01,0,120000,Marketplace,8
+Alive,Spinal Singularity,2016-01-01,0,120000,Hardware,7
+Alive,Spoil,2015-01-01,0,120000,Hardware,7
+Alive,Squire,2016-06-01,0,120000,Hardware,7
+Alive,Standard Cyborg,2015-01-01,0,120000,Hardware,7
+Alive,Starcity,2016-06-01,0,120000,Fintech,6
+Alive,StartClosing,2016-01-01,0,120000,Hardware,7
+Alive,Stealth Worker,2016-01-01,0,120000,Marketplace,8
+Alive,STILT,2016-01-01,0,120000,Marketplace,8
+Alive,Stitch,2016-01-01,0,120000,Marketplace,8
+Alive,StrongIntro,2016-01-01,0,120000,Fintech,6
+Alive,SunFarmer,2016-01-01,0,120000,Developer Tools,4
+Alive,Supply,2015-06-01,0,120000,Hardware,7
+Alive,Supr Daily,2017-01-01,0,120000,Hardware,7
+Alive,Sway,2016-06-01,0,120000,Hardware,7
+Alive,Symple,2017-01-01,0,120000,Education,5
+Alive,TaskPipes,2015-01-01,0,120000,Fintech,6
+Alive,TheMidGame,2015-01-01,0,120000,Education,5
+Alive,Think Gaming,2014-06-01,0,120000,Enterprise,5
+Alive,Thunkable,2016-01-01,0,120000,Enterprise,5
+Alive,Trac,2016-01-01,0,120000,Hardware,7
+Alive,Trackin,2015-01-01,0,120000,Hardware,7
+Alive,Traversal Networks,2015-06-01,0,120000,Hardware,7
+Alive,UnnyWorld,2016-01-01,0,120000,Hardware,7
+Alive,Upgraded,2016-06-01,0,120000,Enterprise,5
+Alive,Upkeep Maintenance Management,2017-01-01,0,120000,Fintech,6
+Alive,UpLabs,2016-01-01,0,120000,Marketplace,8
+Alive,UtilityScore,2016-06-01,0,120000,Developer Tools,4
+Alive,Vatler,2014-06-01,0,120000,Enterprise,5
+Alive,Vernox Labs,2015-06-01,0,120000,Enterprise,5
+Alive,Vertical,2015-01-01,0,120000,Enterprise,5
+Alive,Vetcove,2016-06-01,0,120000,Enterprise,5
+Alive,Vidcode,2016-06-01,0,120000,Education,5
+Alive,VINEBOX,2016-01-01,0,120000,Marketplace,8
+Alive,Vizera Labs,2014-06-01,0,120000,Developer Tools,4
+Alive,Vote.org,2016-06-01,0,120000,Enterprise,5
+Alive,Wink Health,2015-06-01,0,120000,Hardware,7
+Alive,X-Zell,2016-01-01,0,120000,Hardware,7
+Alive,Xberts,2016-06-01,0,120000,Marketplace,8
+Alive,Xendit,2015-06-01,0,120000,Marketplace,8
+Alive,Yardbook,2016-01-01,0,120000,Fintech,6
+Alive,Zenamins,2014-06-01,0,120000,Marketplace,8
+Alive,Zenflow,2015-01-01,0,120000,Developer Tools,4
+Alive,zPredicta,2015-06-01,0,120000,Hardware,7
+Alive,Butter Systems,2013-06-01,0,100000,Developer Tools,4
+Alive,LeanMarket,2012-06-01,0,100000,Enterprise,5
+Alive,Terascore,2013-01-01,0,100000,Enterprise,5
+Alive,The Human Utility,2015-01-01,0,100000,Education,5
+Alive,Trade,2017-01-01,0,100000,Marketplace,8
+Alive,WorldCover,2016-01-01,0,100000,Enterprise,5
+Alive,Kivo,2013-06-01,0,97000,Marketplace,8
+Alive,Shoobs,2014-01-01,0,94000,Fintech,6
+Alive,InnaMed,2017-01-01,0,81142,Enterprise,5
+Alive,Povio,2014-01-01,0,75000,Enterprise,5
+Alive,Cowlar,2017-01-01,0,50000,Developer Tools,4
+Alive,Liftignighter,2014-01-01,0,50000,Fintech,6
+Alive,Style Lend,2014-01-01,0,50000,Marketplace,8
+Alive,OpenCurriculum,2014-01-01,0,40000,Education,5
+Alive,Seva Coffee,2015-06-01,0,28000,Fintech,6
+Alive,OpenTrons,2016-01-01,0,25000,Hardware,7
+Alive,Protocol Labs,2014-06-01,0,25000,Fintech,6
+Alive,RentHop,2009-06-01,0,25000,Marketplace,8
+Alive,TetraScience,2015-06-01,0,25000,Enterprise,5
+Alive,FanChatter,2009-06-01,0,20000,Marketplace,8
+Alive,InklingMarkets,2006-01-01,0,20000,Enterprise,5
+Alive,PollEverywhere,2008-06-01,0,20000,Enterprise,5
+Alive,Bountii,2007-06-01,0,15000,Hardware,7
+Alive,DirectedEdge,2009-06-01,0,15000,Developer Tools,4
+Dead,Picwing,2008-06-01,100000,10000,Consumer,3
+Dead,HomeJoy,2010-06-01,0,64190945,Marketplace,8
+Dead,CarWoo,2009-06-01,0,10850000,Consumer,3
+Dead,Weave,2014-06-01,0,5000000,Consumer,3
+Dead,Balanced,2011-01-01,0,3550000,Fintech,6
+Dead,SlidePay,2012-01-01,0,2100000,Fintech,6
+Dead,Buttercoin,2013-06-01,0,1250000,Fintech,6
+Dead,TrustEgg,2011-01-01,0,1150000,Fintech,6
+Dead,Opzi,2010-06-01,0,1015000,Consumer,3
+Dead,Tipjoy,2008-01-01,0,1000000,B2B,1
+Dead,HelloChair,2007-06-01,0,889999,B2B,1
+Dead,Close.io,2011-01-01,0,500000,Education,5
+Dead,Install Monetizer,2012-01-01,0,500000,Marketplace,8
+Dead,FitFu,2011-01-01,0,400000,Consumer,3
+Dead,Kirkland North,2008-01-01,0,225000,Consumer,3
+Dead,Flytenow,2014-06-01,0,145000,Developer Tools,4
+Dead,HaloLife,2016-01-01,0,120000,B2B,1
+Dead,Ohm,2015-06-01,0,120000,Hardware,7
+Dead,Omniref,2015-01-01,0,120000,Developer Tools,4
+Dead,ReSchedule,2015-01-01,0,120000,Enterprise,5
+Dead,Sywork,2015-06-01,0,120000,Education,5
+Dead,99dresses,2012-01-01,0,105651,Marketplace,8
+Dead,Fuzzwich,2007-06-01,0,15000,Consumer,3
+Dead,Snipd,2008-06-01,0,15000,Consumer,3
+Dead,TicketStumbler,2008-06-01,0,15000,Consumer,3
+Dead,Voxli,2009-01-01,0,15000,Consumer,3
+Dead,Splashup,2007-06-01,0,10000,Consumer,3
+Exited,RethinkDB,2009-06-01,25000,23200000,Developer Tools,4
+Exited,GraffitiGeo,2009-06-01,100000,20000,Consumer,3
+Exited,Slinkset,2008-06-01,100000,15000,Fintech,6
+Exited,Kiko,2005-06-01,258100,50000,Marketplace,8
+Exited,Hackermeter,2013-06-01,350000,10000,Consumer,3
+Exited,VoiceGem,2012-06-01,500000,10000,Consumer,3
+Exited,Data Marketplace,2010-01-01,600000,10000,B2B,1
+Exited,Clickpass,2007-06-01,1000000,20000,B2B,1
+Exited,Meetings.io,2010-01-01,2000000,1800000,Enterprise,5
+Exited,Anywhere.fm,2007-06-01,2000000,15000,Consumer,3
+Exited,Clutch.io,2011-06-01,2000000,10000,Developer Tools,4
+Exited,FanVibe,2010-06-01,2000000,10000,B2B,1
+Exited,GazeHawk,2010-06-01,2000000,10000,B2B,1
+Exited,Glassmap,2011-06-01,2000000,10000,Consumer,3
+Exited,Sendoid,2011-01-01,2000000,10000,Enterprise,5
+Exited,Stypi,2011-06-01,2000000,10000,Developer Tools,4
+Exited,TapEngage,2011-06-01,2000000,10000,Consumer,3
+Exited,BridgeUs,2011-06-01,2000000,10000,B2B,1
+Exited,BufferBox,2012-06-01,3000000,1000000,Consumer,3
+Exited,Etacts,2010-01-01,3000000,740000,Developer Tools,4
+Exited,Fridge,2010-06-01,3000000,80000,B2B,1
+Exited,Lingt,2009-06-01,3000000,10000,Education,5
+Exited,reMail,2009-01-01,3000000,10000,Marketplace,8
+Exited,TextPayMe,2005-06-01,3000000,10000,Consumer,3
+Exited,Heysan,2007-01-01,4000000,875000,Developer Tools,4
+Exited,Zenter,2007-01-01,4000000,15000,B2B,1
+Exited,ProjectWedding,2006-01-01,4000000,10000,Consumer,3
+Exited,Backtype,2008-06-01,5000000,1315000,Marketplace,8
+Exited,Auctomatic,2007-01-01,5000000,400000,Biomedical,2
+Exited,Divvyshot,2009-01-01,5000000,10000,B2B,1
+Exited,Echodio,2009-01-01,5000000,10000,Consumer,3
+Exited,Parakey,2005-06-01,5000000,10000,Education,5
+Exited,Snapjoy,2011-06-01,5000000,10000,Developer Tools,4
+Exited,SocialPicks,2007-06-01,8000000,500000,Consumer,3
+Exited,Appjet,2007-06-01,9000000,715000,Developer Tools,4
+Exited,Posterous,2008-06-01,10000000,10140000,Consumer,3
+Exited,DailyBooth,2009-06-01,10000000,7015000,Consumer,3
+Exited,Zecter,2007-06-01,10000000,2515000,Developer Tools,4
+Exited,Mertado,2010-01-01,10000000,2300000,Marketplace,8
+Exited,AdGrok,2010-06-01,10000000,470000,Enterprise,5
+Exited,1000Memories,2010-06-01,15000000,2535000,Consumer,3
+Exited,Flightcaster,2009-06-01,15000000,1300000,Marketplace,8
+Exited,Movity,2010-01-01,15000000,1300000,Consumer,3
+Exited,Meldium,2013-01-01,15000000,1000000,Enterprise,5
+Exited,Rapportive,2010-06-01,15000000,1000000,Consumer,3
+Exited,Omnisio,2008-01-01,15000000,10000,Developer Tools,4
+Exited,TalkBin,2011-01-01,15000000,10000,B2B,1
+Exited,Reddit,2005-06-01,20000000,50100000,Education,5
+Exited,ProductHunt,2014-06-01,20000000,7540000,Consumer,3
+Exited,280 North,2008-01-01,20000000,250000,Developer Tools,4
+Exited,Perfect Audience,2011-06-01,22800000,2460000,Developer Tools,4
+Exited,Pebble Technology,2011-01-01,23000000,58813829,Hardware,7
+Exited,MailGun,2011-01-01,30000000,51100000,Developer Tools,4
+Exited,Bump,2009-06-01,30000000,19900000,Developer Tools,4
+Exited,Cloudkick,2009-01-01,30000000,2750000,Developer Tools,4
+Exited,Zencoder,2010-01-01,30000000,2000000,Developer Tools,4
+Exited,Wufoo,2006-01-01,35000000,10000,Consumer,3
+Exited,Flutter,2012-01-01,40000000,1400000,Developer Tools,4
+Exited,Loopt,2005-06-01,43400000,39105997,Consumer,3
+Exited,Heyzap,2009-01-01,45000000,7995000,Consumer,3
+Exited,Xobni,2006-06-01,48000000,41752000,Developer Tools,4
+Exited,Cue,2010-01-01,50000000,4715000,Developer Tools,4
+Exited,CardPool,2010-01-01,50000000,10000,Marketplace,8
+Exited,Hipmunk,2010-06-01,58000000,54983999,B2B,1
+Exited,SocialCam,2012-01-01,60000000,10000,Consumer,3
+Exited,Allscreen,2010-01-01,85000000,500000,B2B,1
+Exited,Caviar,2011-06-01,90000000,15000000,Marketplace,8
+Exited,Parse,2011-06-01,90000000,7000000,Developer Tools,4
+Exited,Automatic,2011-06-01,100000000,24000000,Hardware,7
+Exited,FutureAdvisor,2010-06-01,150000000,21500000,Fintech,6
+Exited,OMGPOP,2006-06-01,200000000,16600000,Consumer,3
+Exited,Heroku,2008-01-01,250000000,13020000,Developer Tools,4
+Exited,Twitch,2007-01-01,970000000,35000000,Marketplace,8
+Exited,Cruise,2014-01-01,1000000000,18800000,Enterprise,5
+Exited,Tilt,2012-01-01,67100000,67100000,Consumer,3
+Exited,FlightCar,2013-01-01,40428608,40428608,Marketplace,8
+Exited,Docker,2010-06-01,28679147,28679147,Developer Tools,4
+Exited,Cloudant,2008-06-01,18250000,18250000,Developer Tools,4
+Exited,Raven Tech,2015-01-01,18120000,18120000,Hardware,7
+Exited,Coin,2013-01-01,15500000,15500000,Biomedical,2
+Exited,URX,2013-06-01,15100000,15100000,Developer Tools,4
+Exited,Shopular,2012-01-01,13597710,13597710,Marketplace,8
+Exited,SpoonRocket,2013-06-01,13500000,13500000,Consumer,3
+Exited,500Friends,2010-01-01,12900000,12900000,Enterprise,5
+Exited,OrderAhead,2011-01-01,10500000,10500000,Consumer,3
+Exited,SendHub,2012-01-01,10000000,10000000,Enterprise,5
+Exited,Firebase,2011-06-01,7000000,7000000,Developer Tools,4
+Exited,Compose,2011-06-01,6417000,6417000,Developer Tools,4
+Exited,Kimono,2014-01-01,5000000,5000000,Consumer,3
+Exited,ReadyForZero,2010-06-01,4777000,4777000,Fintech,6
+Exited,Couple,2012-01-01,4200000,4200000,Consumer,3
+Exited,Pixate,2012-06-01,3800000,3800000,Developer Tools,4
+Exited,Fixed,2014-06-01,3750000,3750000,Consumer,3
+Exited,Exec,2012-01-01,3300000,3300000,Marketplace,8
+Exited,Authy,2012-01-01,3067000,3067000,Developer Tools,4
+Exited,Chariot,2015-01-01,3000000,3000000,Fintech,6
+Exited,Wit.ai,2014-01-01,3000000,3000000,Developer Tools,4
+Exited,Kicksend,2011-06-01,2800000,2800000,Consumer,3
+Exited,WorkLife,2015-01-01,2720000,2720000,Consumer,3
+Exited,Standard Treasury,2013-06-01,2700000,2700000,Biomedical,2
+Exited,GetGoing,2012-06-01,2500000,2500000,Consumer,3
+Exited,FreshPlum,2011-06-01,2484999,2484999,Developer Tools,4
+Exited,Paribus,2015-06-01,2220000,2220000,Consumer,3
+Exited,Amiato,2012-01-01,2000000,2000000,Hardware,7
+Exited,Bop.fm,2013-06-01,2000000,2000000,Hardware,7
+Exited,Framed Data,2014-01-01,2000000,2000000,Developer Tools,4
+Exited,Screenhero,2013-01-01,1800000,1800000,Enterprise,5
+Exited,Tutorspree,2011-01-01,1800000,1800000,Marketplace,8
+Exited,Vanhawks,2015-01-01,1600000,1600000,Enterprise,5
+Exited,DataRank,2013-06-01,1588000,1588000,B2B,1
+Exited,Vest,2015-01-01,1470000,1470000,Enterprise,5
+Exited,Vest,2015-06-01,1470000,1470000,Enterprise,5
+Exited,Lanyrd,2011-01-01,1400000,1400000,Consumer,3
+Exited,Loom,2012-01-01,1400000,1400000,Marketplace,8
+Exited,Launchpad Toys,2011-06-01,1117000,1117000,Education,5
+Exited,Embedly,2010-01-01,1020000,1020000,Developer Tools,4
+Exited,Embark,2011-06-01,1000000,1000000,Hardware,7
+Exited,FamilyLeaf,2012-01-01,984000,984000,Consumer,3
+Exited,Streem,2012-06-01,875000,875000,Consumer,3
+Exited,JustSpotted,2008-06-01,765000,765000,Marketplace,8
+Exited,Earbits,2011-01-01,630000,630000,B2B,1
+Exited,Leftronic,2010-06-01,500000,500000,Fintech,6
+Exited,Octopart,2007-01-01,374999,374999,B2B,1
+Exited,Cryptoseal,2011-06-01,280000,280000,Developer Tools,4
+Exited,Rescue Forensics,2015-01-01,245000,245000,Enterprise,5
+Exited,Redspread,2016-01-01,240000,240000,Developer Tools,4
+Exited,Sphere Secure Workplace,2015-06-01,142266,142266,Consumer,3
+Exited,Bizzy.io,2015-06-01,120000,120000,Developer Tools,4
+Exited,Spark Gift,2015-01-01,120000,120000,Consumer,3
+Exited,StatusPage,2013-06-01,100000,100000,Hardware,7
