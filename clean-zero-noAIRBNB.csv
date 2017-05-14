@@ -1,10 +1,4 @@
 State,Name,CohortDate,ExitValue,Funding,Categorie,CateNum
-Alive,Zenefits,2013-01-01,0,583600000,Consumer,3
-Alive,Stripe,2009-06-01,0,440000000,B2B,1
-Alive,Machine Zone,2008-01-01,0,390300000,Consumer,3
-Alive,LendUp,2012-01-01,0,361500000,Fintech,6
-Alive,Gusto,2012-01-01,0,253100000,B2B,1
-Alive,Memebox,2014-01-01,0,229620000,Marketplace,8
 Alive,DoorDash,2013-06-01,0,186700000,Consumer,3
 Alive,Ginko Bioworks,2014-06-01,0,154120000,Biomedical,2
 Alive,Optimizely,2010-01-01,0,146200000,Developer Tools,4
