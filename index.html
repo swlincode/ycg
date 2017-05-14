@@ -222,7 +222,9 @@
                                        "left":(+posX+20)+"px", //效果等於posX = +posX
                                        "top":(+posY+20)+"px", //posY = +posY
                                    });
-                    d3.select(this).attr({"r":"8","stroke":"#053134","stroke-width":"2"})
+                    d3.select(this).attr({"r":"5","stroke":"#00b415","stroke-width":"0"})
+                                    .transition().duration(200).ease("elastic")
+                                    .attr({"r":"10","stroke":"#053134","stroke-width":"1"})
                    tooltip.select("#city").text(d.Name); //滑鼠選到地方已經有值，不需要寫function
                    tooltip.select("#industry").text((d.Funding/1000000+"M"));
                    tooltip.select("#categorie").text((d.Categorie));
@@ -232,7 +234,9 @@
            })
             .on("mouseout",function(d){
                     d3.select("#tooltip").classed("hidden",true);
-                    d3.select(this).attr({"r":"5","stroke":"#053134","stroke-width":"0"})
+                    d3.select(this).attr({"r":"10","stroke":"#053134","stroke-width":"1"})
+                                         .transition().duration(100)
+                                    .attr({"r":"5","stroke":"#053134","stroke-width":"0"})
                 
            })
             
@@ -332,6 +336,13 @@
                             return "#00b129";
                                 }
                     })
+                
+                
+                
+                
+                
+                
+                
                 
                    tooltip.select("#city").text(d.Name); //滑鼠選到地方已經有值，不需要寫function
                    tooltip.select("#industry").text((d.ExitValue/1000000+"M"+" / "+d.Funding/1000000+"M"));
