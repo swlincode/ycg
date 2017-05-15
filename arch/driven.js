@@ -1,7 +1,7 @@
 
 var w = 900;
 var h = 600;
-var p = 70;
+var p = 68;
 
 
 svg();       
@@ -331,7 +331,7 @@ function btnList(dataSet){
             "type": "button",
             "value": "All",
             "class":"btn btn-default",
-            "style":" position:absolute;left:630px;top:65px;"
+            "style":" position:absolute;left:630px;top:10px;"
         })
             .on("click",function(d){ updateAll(d);});
 
@@ -345,7 +345,7 @@ function btnList(dataSet){
             "type": "button",
             "value": "Dead",
             "class":"btn btn-danger",
-            "style":" position:absolute;left:669px;top:65px;"
+            "style":" position:absolute;left:669px;top:10px;"
         })
             .on("click",function(d){ updateD(d);});
 
@@ -362,7 +362,7 @@ function btnList(dataSet){
     d3.select("body").append("span").append("input").attr({
             "type": "button","value": "Exited",
         "class":"btn btn-success",
-        "style":" position:absolute;left:724px;top:65px;"
+        "style":" position:absolute;left:724px;top:10px;"
         })
             .on("click",function(d){updateE(d);});
 
@@ -379,7 +379,7 @@ function btnList(dataSet){
     d3.select("body").append("span").append("input").attr({
             "type": "button","value": "Alive",
         "class":"btn btn-info",
-        "style":" position:absolute;left:782px;top:65px;"
+        "style":" position:absolute;left:782px;top:10px;"
         })
             .on("click",function(d){updateA(d);});
 
