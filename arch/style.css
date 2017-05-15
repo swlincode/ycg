@@ -1,0 +1,27 @@
+<style>
+        body{
+            background: #939594;
+        }
+        .axis path, .axis line{
+            fill: none;
+            stroke: black;
+            shape-rendering: auto;
+        }
+        .axis text{
+            font-size: 13px;
+        }
+        #tooltip{
+              color:floralwhite;
+            font-size: 15px;
+              position: absolute;
+              background: #00905e;
+              width: 180px;
+              height: auto;
+              padding: 5px 15px;
+              border-radius: 5px;
+              box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+            }
+             #tooltip.hidden{
+              display: none;
+            }
+    </style>

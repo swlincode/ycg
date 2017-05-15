@@ -1,0 +1,836 @@
+State,Name,CohortDate,ExitValue,Funding,Categorie,CateNum,link
+Alive,AirBnb,2009-01-01,0,4398082100,Marketplace,8,http://airbnb.com
+Alive,Dropbox,2007-06-01,0,1707215000,Marketplace,8,http://www.dropbox.com
+Alive,Instacart,2012-06-01,0,674800000,Marketplace,8,https://www.instacart.com
+Alive,Zenefits,2013-01-01,0,583600000,Consumer,3,http://www.zenefits.com
+Alive,Stripe,2009-06-01,0,440000000,B2B,1,http://stripe.com
+Alive,Machine Zone,2008-01-01,0,390300000,Consumer,3,http://www.mz.com
+Alive,LendUp,2012-01-01,0,361500000,Fintech,6,http://www.lendup.com
+Alive,Gusto,2012-01-01,0,253100000,B2B,1,https://gusto.com/
+Alive,Memebox,2014-01-01,0,229620000,Marketplace,8,http://us.memebox.com
+Alive,DoorDash,2013-06-01,0,186700000,Consumer,3,http://www.doordash.com
+Alive,Ginko Bioworks,2014-06-01,0,154120000,Biomedical,2,http://ginkgobioworks.com/
+Alive,Optimizely,2010-01-01,0,146200000,Developer Tools,4,http://optimizely.com
+Alive,Thalmic Labs (Myo),2013-01-01,0,135606990,Hardware,7,http://thalmic.com
+Alive,Coinbase,2012-06-01,0,117209590,Fintech,6,https://www.coinbase.com
+Alive,Airware,2013-01-01,0,109550000,Enterprise,5,http://airware.com
+Alive,Flexport,2014-01-01,0,94000000,Consumer,3,https://www.flexport.com/
+Alive,PagerDuty,2010-06-01,0,83600000,Developer Tools,4,http://www.pagerduty.com
+Alive,MemSQL,2011-01-01,0,78100000,Developer Tools,4,http://www.memsql.com
+Alive,Mixpanel,2009-06-01,0,77015000,Consumer,3,http://www.mixpanel.com
+Alive,WePay,2009-06-01,0,74150000,Consumer,3,http://go.wepay.com
+Alive,Meta Space Glasses,2013-06-01,0,73000000,Hardware,7,http://www.metavision.com
+Alive,Clustrix,2006-01-01,0,71650000,Consumer,3,http://www.clustrix.com
+Alive,Rigetti Computing,2014-06-01,0,69200000,Hardware,7,http://www.rigetti.com/
+Alive,E la Carte,2010-06-01,0,67500000,B2B,1,http://elacarte.com
+Alive,MatterPort,2012-01-01,0,61000000,Enterprise,5,http://www.matterport.com
+Alive,Songkick,2007-06-01,0,60815000,Marketplace,8,http://songkick.com
+Alive,Vidyard,2011-06-01,0,60650000,B2B,1,http://vidyard.com
+Alive,PlanGrid,2012-01-01,0,59100000,B2B,1,http://www.plangrid.com
+Alive,Genius,2011-06-01,0,56900000,B2B,1,http://www.genius.com
+Alive,Teespring,2013-01-01,0,56875000,Consumer,3,http://teespring.com
+Alive,Sift Science,2011-06-01,0,53600000,Enterprise,5,http://siftscience.com
+Alive,Le Tote,2013-06-01,0,52500000,Marketplace,8,http://www.letote.com
+Alive,CoreOS,2013-06-01,0,50000000,Developer Tools,4,http://coreos.com
+Alive,Checkr,2014-06-01,0,49120000,Consumer,3,https://checkr.com/
+Alive,Scribd,2006-06-01,0,47762000,B2B,1,http://scribd.com
+Alive,Clever,2012-06-01,0,46320000,Education,5,https://clever.com
+Alive,Interana,2013-01-01,0,46199999,Enterprise,5,http://www.interana.com
+Alive,Comprehend Systems,2011-01-01,0,45696000,B2B,1,http://www.comprehend.com
+Alive,Segment.io,2011-06-01,0,44720000,B2B,1,http://segment.com
+Alive,Five Stars,2011-01-01,0,42650000,B2B,1,http://fivestarscard.com
+Alive,Codecademy,2011-06-01,0,42500000,Education,5,http://www.codecademy.com
+Alive,Weebly,2007-01-01,0,39826763,B2B,1,http://www.weebly.com
+Alive,FarmLogs,2012-01-01,0,37000000,Consumer,3,http://farmlogs.com
+Alive,6sense,2013-01-01,0,36000000,Enterprise,5,http://www.6sense.com
+Alive,Kamcord,2012-06-01,0,35270000,Consumer,3,http://www.kamcord.com
+Alive,Boom,2016-01-01,0,35240000,Hardware,7,http://boomsupersonic.com/
+Alive,EquipmentShare,2015-01-01,0,33720000,B2B,1,https://equipmentshare.com/
+Alive,Lever,2012-06-01,0,32800000,Consumer,3,https://www.lever.co/
+Alive,GrubMarket,2015-01-01,0,32100000,Marketplace,8,https://www.grubmarket.com
+Alive,Meteor,2011-06-01,0,31200000,Developer Tools,4,http://meteor.com
+Alive,Science Exchange,2011-06-01,0,30500000,Marketplace,8,http://scienceexchange.com
+Alive,BlueSmart,2015-01-01,0,29500000,B2B,1,http://bluesmart.com
+Alive,Realm,2011-06-01,0,29000000,Developer Tools,4,http://realm.io/
+Alive,Your Mechanic,2012-01-01,0,28000000,Consumer,3,http://www.yourmechanic.com
+Alive,Transcriptic,2015-01-01,0,27770000,Hardware,7,http://www.transcriptic.com
+Alive,WayUp,2015-01-01,0,27468000,Marketplace,8,https://www.wayup.com
+Alive,uBiome,2014-06-01,0,26971193,Developer Tools,4,http://ubiome.com
+Alive,Anyperk,2012-01-01,0,25850000,Consumer,3,http://fond.co
+Alive,GitLab,2015-01-01,0,25620000,Developer Tools,4,http://about.gitlab.com
+Alive,Eligible,2012-06-01,0,25200000,Enterprise,5,https://www.eligible.com
+Alive,InfluxData,2013-01-01,0,24892000,Developer Tools,4,http://influxdata.com/
+Alive,GoCardless,2011-06-01,0,24800000,Consumer,3,http://gocardless.com
+Alive,HackerRank,2011-06-01,0,24199995,Developer Tools,4,http://hackerrank.com
+Alive,SmartAsset,2012-06-01,0,23431095,Marketplace,8,https://smartasset.com/
+Alive,Algolia,2014-01-01,0,22220043,Developer Tools,4,https://www.algolia.com
+Alive,Quartzy,2011-06-01,0,22200000,Education,5,http://www.quartzy.com
+Alive,Swiftype,2012-01-01,0,22200000,Consumer,3,https://swiftype.com
+Alive,Move Loot,2014-01-01,0,21800000,Marketplace,8,http://moveloot.com
+Alive,Casetext,2013-06-01,0,20800000,Consumer,3,http://www.casetext.com
+Alive,Weave Communications,2014-01-01,0,20500000,Consumer,3,http://www.getweave.com
+Alive,Rescale,2012-01-01,0,20400000,Enterprise,5,http://www.rescale.com
+Alive,LeadGenius,2011-06-01,0,20000000,Enterprise,5,https://leadgenius.com
+Alive,Dr Chrono,2011-01-01,0,18725000,Hardware,7,https://www.drchrono.com
+Alive,Virool,2012-06-01,0,18620000,Consumer,3,http://www.virool.com
+Alive,Apptimize,2013-06-01,0,18500000,Developer Tools,4,http://apptimize.com
+Alive,42floors,2012-01-01,0,17400000,B2B,1,http://42floors.com
+Alive,Mattermark,2012-06-01,0,17200000,B2B,1,http://mattermark.com
+Alive,Rocketrip,2014-01-01,0,17175000,Education,5,http://www.rocketrip.com
+Alive,Chute,2012-01-01,0,16819997,Enterprise,5,http://getchute.com
+Alive,AirHelp,2014-01-01,0,16700000,Consumer,3,http://www.airhelp.com
+Alive,Thread,2012-06-01,0,16322190,Consumer,3,https://www.thread.com/
+Alive,Rainforest QA,2012-06-01,0,16170000,Developer Tools,4,https://www.rainforestqa.com/
+Alive,Flirtey,2015-06-01,0,16040875,Consumer,3,http://www.flirtey.com
+Alive,Panorama Education,2013-06-01,0,16000000,Education,5,http://panoramaed.com
+Alive,AeroFS,2010-06-01,0,15500000,Enterprise,5,http://www.aerofs.com
+Alive,ClearTax,2014-06-01,0,15420000,Biomedical,2,http://cleartax.in/
+Alive,analyticsMD,2015-01-01,0,15120000,Enterprise,5,http://www.qventus.com
+Alive,Gobble,2014-01-01,0,14823000,Marketplace,8,http://gobble.com
+Alive,BuildZoom,2013-01-01,0,14563000,Marketplace,8,https://www.buildzoom.com
+Alive,Estimote,2013-06-01,0,13800000,Developer Tools,4,http://www.estimote.com
+Alive,Front,2014-06-01,0,13250000,B2B,1,http://frontapp.com
+Alive,Citus Data,2011-06-01,0,13150000,Developer Tools,4,https://www.citusdata.com
+Alive,Lygos,2016-01-01,0,13120000,Consumer,3,http://www.lygos.com
+Alive,Goldbely,2013-01-01,0,13000000,Marketplace,8,https://www.goldbely.com
+Alive,Heap Analytics,2013-01-01,0,13000000,Developer Tools,4,http://heapanalytics.com
+Alive,Benchling,2012-06-01,0,12900000,Hardware,7,http://benchling.com
+Alive,Gigster,2015-06-01,0,12500000,B2B,1,https://gigster.com/
+Alive,Magic,2015-01-01,0,12120000,Hardware,7,https://www.getmagic.com/
+Alive,Helion Energy,2014-06-01,0,12114202,Hardware,7,http://www.helionenergy.com/
+Alive,Indinero,2010-06-01,0,12041526,Biomedical,2,http://indinero.com
+Alive,Mux,2016-01-01,0,11920000,Hardware,7,https://mux.com
+Alive,RideCell,2012-01-01,0,11700000,Enterprise,5,http://www.ridecell.com
+Alive,Eight,2015-06-01,0,11620000,Hardware,7,http://eightsleep.com
+Alive,Eight,2015-06-01,0,11620000,Hardware,7,http://eightsleep.com
+Alive,Razorpay,2015-01-01,0,11600000,Consumer,3,https://razorpay.com/
+Alive,Paperspace,2015-01-01,0,11428000,Developer Tools,4,http://www.paperspace.io
+Alive,Listia,2009-06-01,0,11165000,Marketplace,8,http://www.listia.com
+Alive,BitAccess,2014-06-01,0,11000000,Consumer,3,http://www.bitaccess.co
+Alive,Sourcery,2013-01-01,0,10952000,Developer Tools,4,http://getsourcery.com/
+Alive,Rappi,2016-01-01,0,10940000,Developer Tools,4,http://www.rappi.com
+Alive,CareMessage,2014-01-01,0,10700000,Marketplace,8,http://caremessage.org
+Alive,Cymmetria,2015-06-01,0,10600000,Enterprise,5,http://www.cymmetria.com/
+Alive,Disqus,2007-06-01,0,10500000,Developer Tools,4,http://www.disqus.com
+Alive,Bitmovin,2015-06-01,0,10300001,Developer Tools,4,https://www.bitmovin.com
+Alive,Spire,2015-01-01,0,10220000,Hardware,7,http://spire.io
+Alive,Health Sherpa,2012-06-01,0,10000000,Consumer,3,https://www.healthsherpa.com/
+Alive,TerrAvion,2014-01-01,0,10000000,Enterprise,5,http://www.terravion.com
+Alive,Function of Beauty,2016-01-01,0,9620000,Hardware,7,https://functionofbeauty.com/
+Alive,Lob,2013-06-01,0,9400000,Enterprise,5,https://www.lob.com
+Alive,GOAT,2011-01-01,0,9360573,Marketplace,8,https://dosuperb.com
+Alive,Zesty,2014-01-01,0,9200000,Enterprise,5,http://www.zesty.co.uk
+Alive,Errplane,2013-01-01,0,9112000,Marketplace,8,http://errplane.com
+Alive,Final,2015-01-01,0,9100000,Marketplace,8,http://www.getfinal.com
+Alive,Direct Match,2015-01-01,0,9000000,Biomedical,2,http://www.directmatch.com
+Alive,SigOpt,2015-01-01,0,8720000,B2B,1,https://sigopt.com/
+Alive,SimplyInsured,2013-01-01,0,8400000,Consumer,3,http://www.simplyinsured.com
+Alive,Boostable,2014-01-01,0,8222000,Hardware,7,http://www.boostable.com
+Alive,Unbabel,2014-01-01,0,8000000,Biomedical,2,http://unbabel.com
+Alive,Labdoor,2015-01-01,0,7990587,Marketplace,8,http://LabDoor.com
+Alive,PetCube,2016-01-01,0,7761000,B2B,1,http://petcube.com
+Alive,Survata,2012-06-01,0,7717000,Consumer,3,https://www.survata.com
+Alive,Protonet,2016-01-01,0,7654742,Consumer,3,http://www.protonet.info/en
+Alive,Bloomthat,2013-06-01,0,7600000,Developer Tools,4,http://www.bloomthat.com
+Alive,Sharethebus,2016-01-01,0,7411399,Hardware,7,https://www.bus.com/
+Alive,Perlara,2016-01-01,0,7320000,B2B,1,http://plab.co
+Alive,The Muse,2012-01-01,0,7316522,Consumer,3,http://www.themuse.com/
+Alive,Cleanly,2015-01-01,0,7300000,Enterprise,5,https://cleanly.com
+Alive,Imgix,2011-06-01,0,7164000,Consumer,3,https://www.imgix.com
+Alive,Jumpcut,2016-06-01,0,7120000,Education,5,http://jumpcut.com
+Alive,Willing,2015-06-01,0,7120000,Consumer,3,http://willing.com/
+Alive,Rippling,2017-01-01,0,7000000,Hardware,7,https://www.rippling.com/
+Alive,True Link Financial,2013-06-01,0,7000000,Consumer,3,https://www.truelinkfinancial.com
+Alive,DroneBase,2015-01-01,0,6957370,Marketplace,8,http://dronebase.com
+Alive,Click & Grow,2015-06-01,0,6922029,Hardware,7,http://www.clickandgrow.com
+Alive,Deako,2016-01-01,0,6790000,Consumer,3,https://www.deako.com/
+Alive,Chart.io,2010-06-01,0,6770000,Consumer,3,http://chartio.com
+Alive,CloudMedX,2015-01-01,0,6600000,Enterprise,5,http://www.cloudmedxhealth.com
+Alive,Atomwise,2015-01-01,0,6570000,Hardware,7,http://www.atomwise.com/
+Alive,Wevorce,2013-01-01,0,6545962,B2B,1,http://wevorce.com
+Alive,Custora,2011-01-01,0,6500000,Marketplace,8,https://www.custora.com/
+Alive,FundersClub,2012-06-01,0,6500000,Hardware,7,http://fundersclub.com
+Alive,JustRide,2016-06-01,0,6400000,Marketplace,8,http://justride.in/
+Alive,Smyte,2015-06-01,0,6250000,Consumer,3,https://www.smyte.com/
+Alive,Suiteness,2016-06-01,0,6120000,Consumer,3,http://www.suiteness.com
+Alive,Regalii,2013-06-01,0,6000000,Consumer,3,http://regalii.com
+Alive,ZeroCater,2011-01-01,0,5599999,Developer Tools,4,https://zerocater.com
+Alive,BlockStack Labs,2014-06-01,0,5450000,Developer Tools,4,https://blockstack.org/
+Alive,Nurx,2016-01-01,0,5420000,Developer Tools,4,http://nurx.co
+Alive,Popular Pays,2015-01-01,0,5420000,Consumer,3,http://www.popularpays.com
+Alive,Aisle50,2011-06-01,0,5200000,Consumer,3,http://www.aisle50.com
+Alive,EveryMe,2011-06-01,0,5163408,Consumer,3,https://everyme.com/
+Alive,Seed,2015-01-01,0,5120000,Fintech,6,https://seed.co/
+Alive,Pigeonly,2015-01-01,0,5089999,Consumer,3,http://www.pigeon.ly
+Alive,ShipBob,2014-06-01,0,5020000,Biomedical,2,http://www.shipbob.com/
+Alive,flexReceipts,2016-01-01,0,5009415,Consumer,3,http://www.flexreceipts.com
+Alive,Clara Labs,2014-06-01,0,5000000,Enterprise,5,http://www.claralabs.com/
+Alive,MinoMonsters,2011-01-01,0,4868000,Fintech,6,http://www.mino-games.com/
+Alive,Taplytics,2014-01-01,0,4800000,Developer Tools,4,http://taplytics.com
+Alive,Watsi,2013-01-01,0,4700000,Marketplace,8,http://watsi.org
+Alive,Joy,2016-06-01,0,4620000,Consumer,3,https://withjoy.com/
+Alive,Varden Labs,2016-01-01,0,4620000,Consumer,3,http://vardenlabs.com/
+Alive,Luka,2015-01-01,0,4540000,Consumer,3,https://luka.ai/
+Alive,Bellabeat,2014-01-01,0,4519913,Hardware,7,http://www.bellabeat.com
+Alive,PlateIQ,2015-06-01,0,4500000,Developer Tools,4,http://plateiq.com/
+Alive,Notable Labs,2015-01-01,0,4488500,Consumer,3,http://www.notablelabs.com
+Alive,Humble Bundle,2011-01-01,0,4480000,Consumer,3,https://www.humblebundle.com
+Alive,Ark,2012-01-01,0,4450000,Hardware,7,http://www.ark.com
+Alive,CareSkore,2016-01-01,0,4420000,Enterprise,5,http://www.careskore.com
+Alive,Lumoid,2013-06-01,0,4400000,Marketplace,8,http://lumoid.com
+Alive,Upverter,2011-01-01,0,4378571,Developer Tools,4,http://upverter.com
+Alive,Jopwell,2015-06-01,0,4250000,Consumer,3,http://www.jopwell.com
+Alive,VayCayHero,2013-01-01,0,4186500,Marketplace,8,http://www.vaycayhero.com/
+Alive,Flex,2016-06-01,0,4120000,Consumer,3,http://www.flexfits.com
+Alive,Kickback,2015-01-01,0,4120000,Marketplace,8,http://kickback.com/
+Alive,OOHLALA,2016-06-01,0,4120000,Developer Tools,4,http://www.oohlalamobile.com
+Alive,Beep,2014-06-01,0,4000000,Hardware,7,http://www.beepnetworks.com
+Alive,CrateJoy,2013-06-01,0,4000000,Consumer,3,http://www.cratejoy.com
+Alive,TL Biolabs,2016-06-01,0,4000000,B2B,1,https://tlbiolabs.com
+Alive,Scentbird,2015-06-01,0,3840000,Developer Tools,4,http://scentbird.com
+Alive,Amicus,2012-06-01,0,3780000,Hardware,7,http://amicushq.com
+Alive,Sixa,2016-06-01,0,3761854,Consumer,3,https://sixa.io
+Alive,Verbling,2011-06-01,0,3720000,Marketplace,8,https://www.verbling.com
+Alive,GO1,2015-06-01,0,3713944,Enterprise,5,http://www.go1.com
+Alive,Validere,2016-06-01,0,3681037,Hardware,7,http://validere.com/
+Alive,Coub,2016-06-01,0,3620000,Developer Tools,4,http://coub.com
+Alive,BlockSpring,2014-06-01,0,3520000,Consumer,3,https://www.blockspring.com/
+Alive,Abacus,2014-01-01,0,3500000,Consumer,3,http://abacus.com/
+Alive,Captain 401,2015-06-01,0,3500000,Biomedical,2,https://captain401.com/
+Alive,EasyPost,2013-06-01,0,3450000,Developer Tools,4,http://www.easypost.com
+Alive,OwnLocal,2010-01-01,0,3447000,Consumer,3,http://www.ownlocal.com
+Alive,Wheelys Cafe,2015-06-01,0,3443586,Consumer,3,http://www.wheelyscafe.com/
+Alive,Nova Credit,2016-06-01,0,3420000,Biomedical,2,http://neednova.com/
+Alive,Natero,2012-06-01,0,3334176,Consumer,3,https://www.natero.com
+Alive,Skymind,2016-01-01,0,3320000,Enterprise,5,http://www.skymind.io
+Alive,OnboardIQ,2015-06-01,0,3300000,Enterprise,5,http://www.onboardiq.com
+Alive,Tastemaker,2012-06-01,0,3220985,Marketplace,8,http://www.tastemaker.com
+Alive,BlueCrew,2015-06-01,0,3220000,Consumer,3,https://www.bluecrewjobs.com/
+Alive,MailTime,2016-01-01,0,3211250,Developer Tools,4,http://mailtime.com
+Alive,Proxy,2016-06-01,0,3200000,Developer Tools,4,https://www.proxy.co/
+Alive,CrowdMed,2013-01-01,0,3145000,Marketplace,8,http://www.crowdmed.com
+Alive,Revlo,2016-06-01,0,3100000,Consumer,3,https://www.revlo.co/
+Alive,Riley,2017-01-01,0,3100000,Hardware,7,https://getrileynow.com/
+Alive,Confident Cannibas,2015-06-01,0,3000000,Developer Tools,4,http://www.confidentcannabis.com/
+Alive,HighlightCam,2009-06-01,0,3000000,Consumer,3,http://www.HighlightCam.com
+Alive,Smarking,2015-01-01,0,3000000,Consumer,3,http://smarking.net
+Alive,Snapdocs,2014-01-01,0,3000000,Consumer,3,http://www.snapdocs.com
+Alive,SwapBox,2013-01-01,0,3000000,Consumer,3,http://swapbox.com
+Alive,Triplebyte,2015-06-01,0,3000000,Developer Tools,4,http://triplebyte.com
+Alive,Wakie,2016-01-01,0,3000000,Hardware,7,http://wakie.com
+Alive,Edyn,2014-01-01,0,2970000,Hardware,7,http://www.edyn.com/
+Alive,CribSpot,2015-01-01,0,2927034,Marketplace,8,https://www.cribspot.com/
+Alive,Lattice,2016-01-01,0,2920000,Consumer,3,http://latticehq.com/
+Alive,Wallarm,2016-06-01,0,2920000,Developer Tools,4,https://wallarm.com
+Alive,Circle Medical,2015-06-01,0,2900000,Hardware,7,http://circlemedical.com/
+Alive,Webflow,2013-06-01,0,2900000,Consumer,3,http://www.webflow.com
+Alive,Valor Water Analytics,2015-01-01,0,2840000,Enterprise,5,https://valorwater.com/
+Alive,Cofactor Genomics,2015-06-01,0,2830000,Education,5,http://cofactorgenomics.com
+Alive,9GAG,2012-06-01,0,2800000,Marketplace,8,http://9gag.com
+Alive,TradeBlock,2014-01-01,0,2800000,Enterprise,5,http://tradeblock.com
+Alive,Zenysis,2016-01-01,0,2800000,Enterprise,5,http://www.zenysis.com/
+Alive,Castle,2016-01-01,0,2772000,Consumer,3,http://entercastle.com/
+Alive,Kalibrr,2013-01-01,0,2770000,Consumer,3,http://www.kalibrr.com
+Alive,Miso,2016-06-01,0,2700000,Consumer,3,http://getmiso.com/
+Alive,Msg.ai,2016-01-01,0,2700000,Consumer,3,http://msg.ai
+Alive,Two Tap,2014-01-01,0,2700000,Developer Tools,4,http://twotap.com
+Alive,One Month Rails,2013-06-01,0,2684000,Developer Tools,4,http://onemonth.com
+Alive,Pluot,2016-01-01,0,2620000,Enterprise,5,https://pluot.co/
+Alive,RedCarpetUp,2015-06-01,0,2620000,Education,5,https://www.redcarpetup.com/
+Alive,Tenjin,2014-06-01,0,2620000,Consumer,3,http://tenjin.io/
+Alive,Yhat,2015-01-01,0,2620000,Developer Tools,4,http://yhathq.com
+Alive,Zen99,2014-06-01,0,2620000,Developer Tools,4,https://www.tryzen99.com/
+Alive,DocTalk,2017-01-01,0,2600000,Developer Tools,4,http://www.getdoctalk.com/
+Alive,Zapier,2012-06-01,0,2562000,Developer Tools,4,https://zapier.com
+Alive,Keychain Logistics,2012-06-01,0,2520000,Marketplace,8,https://www.keychainlogistics.com
+Alive,AptDeco,2014-01-01,0,2515000,Marketplace,8,http://www.aptdeco.com
+Alive,Prizeo,2013-01-01,0,2500000,Consumer,3,http://www.prizeo.com
+Alive,TrueVault,2014-01-01,0,2500000,Developer Tools,4,https://www.truevault.com
+Alive,Xfers,2015-06-01,0,2500000,Fintech,6,http://www.xfers.io
+Alive,Klarismo,2015-06-01,0,2487070,Marketplace,8,http://www.klarismo.com/
+Alive,YesGraph,2016-06-01,0,2420000,Consumer,3,https://www.yesgraph.com
+Alive,Castle.io,2016-01-01,0,2360000,Consumer,3,https://castle.io
+Alive,Tovala,2016-01-01,0,2355603,Consumer,3,http://www.tovala.com
+Alive,Looklive,2016-06-01,0,2349331,Marketplace,8,http://www.looklive.com
+Alive,VOIQ,2015-06-01,0,2345000,Enterprise,5,http://www.voiq.com
+Alive,WeFunder,2013-01-01,0,2330000,Consumer,3,http://www.wefunder.com
+Alive,Moltin,2015-01-01,0,2321891,Developer Tools,4,https://moltin.com
+Alive,Padlet,2013-01-01,0,2320000,Developer Tools,4,http://padlet.com
+Alive,ZenProspect,2016-01-01,0,2320000,Consumer,3,https://www.zenprospect.com/
+Alive,Celery,2012-06-01,0,2300000,Fintech,6,http://www.trycelery.com
+Alive,Sendwithus,2014-01-01,0,2300000,Consumer,3,https://www.sendwithus.com
+Alive,The Athletic,2016-06-01,0,2300000,Hardware,7,https://theathletic.com/
+Alive,VIVE,2015-06-01,0,2300000,Consumer,3,http://www.vive.co
+Alive,AlphaFlow,2016-01-01,0,2280474,Developer Tools,4,http://www.alphaflow.com/
+Alive,Booktrope,2015-01-01,0,2270000,Consumer,3,http://booktrope.com
+Alive,Submittable,2012-06-01,0,2250000,Developer Tools,4,http://www.submittable.com
+Alive,20n,2015-01-01,0,2220000,Consumer,3,http://20n.com/
+Alive,Meadow,2015-01-01,0,2220000,Enterprise,5,https://getmeadow.com/
+Alive,Platzi,2015-01-01,0,2220000,Consumer,3,https://courses.platzi.com/
+Alive,Yoshi,2016-06-01,0,2220000,Developer Tools,4,https://www.startyoshi.com/
+Alive,Cambly,2014-01-01,0,2204365,Enterprise,5,http://cambly.com
+Alive,Lockitron,2009-06-01,0,2200000,Hardware,7,http://lockitron.com
+Alive,Shift Payments,2014-06-01,0,2200000,Fintech,6,https://shiftpayments.com/
+Alive,SketchDeck,2014-01-01,0,2200000,Consumer,3,http://sketchdeck.com
+Alive,Upcall,2017-01-01,0,2190000,Enterprise,5,http://www.upcall.com
+Alive,Semantics3,2013-01-01,0,2150000,Fintech,6,http://www.semantics3.com
+Alive,Instant eSports,2015-06-01,0,2130000,Marketplace,8,http://instantesports.com
+Alive,CrowdAI,2016-06-01,0,2120000,Consumer,3,http://crowdai.com/
+Alive,Instabug,2016-01-01,0,2120000,Developer Tools,4,http://www.instabug.com
+Alive,Landed,2016-01-01,0,2120000,Marketplace,8,http://www.landed.com/#/home
+Alive,MTailor,2014-06-01,0,2120000,Consumer,3,http://mtailor.com
+Alive,Pachyderm,2015-01-01,0,2120000,Developer Tools,4,https://www.pachyderm.io/
+Alive,PicnicHealth,2014-06-01,0,2120000,Consumer,3,https://picnichealth.com/
+Alive,ROSS Intelligence,2015-06-01,0,2120000,Enterprise,5,http://www.rossintelligence.com
+Alive,ScopeAR,2015-06-01,0,2120000,Enterprise,5,http://ScopeAR.com/
+Alive,Auro Robotics,2015-06-01,0,2100000,Hardware,7,http://www.auro.ai
+Alive,CodeCombat,2014-01-01,0,2100000,Education,5,http://codecombat.com
+Alive,Lully,2015-01-01,0,2100000,Hardware,7,http://www.lullysleep.com/
+Alive,Payable,2014-06-01,0,2100000,Developer Tools,4,http://www.payable.com/
+Alive,Payable,2014-06-01,0,2100000,Developer Tools,4,http://www.payable.com/
+Alive,Vayable,2012-06-01,0,2100000,Marketplace,8,http://www.vayable.com
+Alive,Outbound,2015-01-01,0,2070000,Hardware,7,https://outbound.io
+Alive,Canopy Labs,2012-06-01,0,2064000,Consumer,3,http://canopylabs.com
+Alive,GitPrime,2016-01-01,0,2037330,Developer Tools,4,https://gitprime.com
+Alive,BlockScore,2014-06-01,0,2025000,Consumer,3,http://blockscore.com
+Alive,AgileMD,2011-06-01,0,2000000,Consumer,3,http://www.agilemd.com
+Alive,Ambition,2014-01-01,0,2000000,Hardware,7,http://www.tryambition.com
+Alive,Interviewed,2015-06-01,0,2000000,Enterprise,5,https://www.interviewed.com/
+Alive,Iris Automations,2016-06-01,0,2000000,Hardware,7,http://www.irisonboard.com
+Alive,Kash,2014-06-01,0,2000000,Consumer,3,http://withkash.com/
+Alive,Lollicam,2016-06-01,0,2000000,Hardware,7,http://lollic.am
+Alive,MixRank,2011-06-01,0,2000000,Consumer,3,https://mixrank.com
+Alive,OneSignal,2011-06-01,0,2000000,Developer Tools,4,https://onesignal.com/
+Alive,Second Measure,2015-06-01,0,2000000,Enterprise,5,https://secondmeasure.com/
+Alive,Shoptiques,2012-01-01,0,2000000,Marketplace,8,http://shoptiques.com
+Alive,Sliced Investing,2014-06-01,0,2000000,Consumer,3,http://www.slicedinvesting.com/
+Alive,Her,2015-06-01,0,1994645,Hardware,7,https://weareher.com/
+Alive,Magic Instruments,2016-01-01,0,1970000,Consumer,3,https://magicinstruments.com/
+Alive,Streamup,2016-01-01,0,1930000,Consumer,3,https://streamup.com
+Alive,DeepGram,2016-01-01,0,1920000,Fintech,6,https://www.deepgram.com/
+Alive,WorkRamp,2016-06-01,0,1920000,Enterprise,5,https://www.workramp.com
+Alive,Double Robotics,2012-06-01,0,1900000,Hardware,7,http://www.doublerobotics.com
+Alive,Lawn Love,2014-06-01,0,1900000,Marketplace,8,http://lawnlove.com/
+Alive,Truebill,2016-01-01,0,1900000,Consumer,3,http://www.truebill.com
+Alive,Tagstand,2011-06-01,0,1850000,Fintech,6,http://www.tagstand.com/
+Alive,PersistIQ,2014-06-01,0,1820000,Developer Tools,4,http://persistiq.com/
+Alive,Filestack,2012-06-01,0,1800000,Marketplace,8,http://filestack.com
+Alive,Gigwell,2016-01-01,0,1770000,Consumer,3,http://www.gigwell.com
+Alive,Plivo,2012-06-01,0,1750000,Enterprise,5,http://www.plivo.com
+Alive,Women.com,2014-06-01,0,1750000,Developer Tools,4,https://www.women.com
+Alive,HigherMe,2015-01-01,0,1740000,Enterprise,5,None
+Alive,HistoWiz,2016-01-01,0,1714514,Hardware,7,http://histowiz.com/
+Alive,GinzaMetrics,2010-06-01,0,1714000,Consumer,3,http://ginzametrics.com
+Alive,Impraise,2014-06-01,0,1704666,Consumer,3,http://www.impraise.com
+Alive,Bikanta,2014-06-01,0,1700000,Hardware,7,http://bikanta.com/
+Alive,One Degree,2014-01-01,0,1700000,Enterprise,5,http://www.1deg.org
+Alive,Plate Joy,2015-06-01,0,1700000,Developer Tools,4,http://platejoy.com
+Alive,SoundFocus,2013-06-01,0,1700000,Consumer,3,http://www.soundfocus.com
+Alive,Priceonomics,2012-01-01,0,1670000,Consumer,3,http://priceonomics.com
+Alive,Vastrm,2012-06-01,0,1650000,Consumer,3,http://www.vastrm.com
+Alive,Voodoo Manufacturing,2017-01-01,0,1650000,Enterprise,5,https://www.voodoomfg.com/
+Alive,Konsus,2016-01-01,0,1620000,Consumer,3,http://www.konsus.com
+Alive,Shift Messenger,2015-01-01,0,1620000,Fintech,6,http://www.shiftmessenger.com/
+Alive,Toymail,2016-01-01,0,1620000,Hardware,7,http://www.toymail.co
+Alive,Trigger.io,2008-01-01,0,1604400,Developer Tools,4,http://trigger.io
+Alive,Dubjoy,2011-06-01,0,1600000,Marketplace,8,http://dubjoy.com
+Alive,RealCrowd,2013-06-01,0,1600000,Fintech,6,http://www.realcrowd.com
+Alive,PocketSuite,2016-01-01,0,1595000,Consumer,3,http://pocketsuite.io
+Alive,Apozy,2017-01-01,0,1550000,Hardware,7,https://www.apozy.com
+Alive,Asseta,2013-06-01,0,1535000,Marketplace,8,http://www.asseta.com
+Alive,Drive Motors,2016-01-01,0,1500000,Fintech,6,https://drivemotors.com/
+Alive,Guesty,2014-01-01,0,1500000,Hardware,7,http://guesty.com
+Alive,InsiteVR,2015-01-01,0,1500000,Education,5,https://www.insitevr.com/
+Alive,MDAcne,2017-01-01,0,1500000,Enterprise,5,http://www.MDacne.com
+Alive,Mimir,2015-06-01,0,1500000,Education,5,https://mimirhq.com/
+Alive,Pushbullet,2014-01-01,0,1500000,Developer Tools,4,http://www.pushbullet.com
+Alive,Zillabyte,2012-01-01,0,1500000,Developer Tools,4,http://www.zillabyte.com
+Alive,FutureLeague,2014-01-01,0,1489000,Marketplace,8,http://www.futureleague.co
+Alive,Doblet,2014-06-01,0,1420000,Consumer,3,http://doblet.com
+Alive,Goodybag,2016-01-01,0,1420000,Enterprise,5,http://goodybag.com
+Alive,Naytev,2014-06-01,0,1420000,Consumer,3,https://www.naytev.com
+Alive,Permutive,2014-06-01,0,1409067,Developer Tools,4,http://permutive.com/
+Alive,Flynn,2014-06-01,0,1405000,Developer Tools,4,https://flynn.io/
+Alive,Bridge,2011-01-01,0,1400000,Developer Tools,4,http://flotype.com/
+Alive,HireArt,2012-01-01,0,1400000,Consumer,3,http://www.hireart.com
+Alive,MyVR,2012-01-01,0,1400000,Hardware,7,https://myvr.com
+Alive,NowJS,2011-01-01,0,1400000,Fintech,6,http://flotype.com/
+Alive,Locent,2016-01-01,0,1380000,Enterprise,5,http://www.locent.com/
+Alive,Zeplin,2015-06-01,0,1340560,Developer Tools,4,http://zeplin.io
+Alive,VetPronto,2015-01-01,0,1340000,Marketplace,8,http://vetpronto.com/
+Alive,Carlypso,2014-06-01,0,1320000,Marketplace,8,http://www.carlypso.com
+Alive,Parenthoods,2014-06-01,0,1320000,Consumer,3,http://parenthoods.com/
+Alive,Convox,2015-06-01,0,1300000,Developer Tools,4,http://convox.com/
+Alive,LogDNA,2015-01-01,0,1300000,Hardware,7,https://logdna.com/
+Alive,Roomstorm,2014-06-01,0,1300000,Marketplace,8,http://www.roomstorm.com
+Alive,Skylights,2016-06-01,0,1300000,Fintech,6,http://www.skylights.aero/
+Alive,Unima,2016-01-01,0,1300000,Hardware,7,http://www.unima.com.mx
+Alive,Walksource,2014-06-01,0,1300000,Hardware,7,http://www.roomstorm.com
+Alive,BulldozAIR,2016-06-01,0,1234846,Marketplace,8,http://www.bulldozair.com/
+Alive,Experiment,2013-01-01,0,1230000,Marketplace,8,http://www.experiment.com
+Alive,ShiftLabs,2015-01-01,0,1219500,Fintech,6,http://shiftlabs.com
+Alive,Arthena,2017-01-01,0,1200000,Enterprise,5,http://arthena.com
+Alive,Hyperink,2011-01-01,0,1200000,Consumer,3,http://www.hyperink.com
+Alive,KidPass,2017-01-01,0,1200000,Marketplace,8,https://kidpass.com/
+Alive,Penny,2017-01-01,0,1200000,Hardware,7,https://www.pennyapp.io
+Alive,Saleswhale,2016-06-01,0,1200000,Consumer,3,http://saleswhale.com
+Alive,Simbi,2016-06-01,0,1200000,Marketplace,8,https://simbi.com/
+Alive,Talkable,2011-01-01,0,1200000,Fintech,6,https://www.talkable.com
+Alive,CoinTent,2016-06-01,0,1195000,Fintech,6,http://cointent.com
+Alive,Greentoe,2014-06-01,0,1195000,Fintech,6,http://www.greentoe.com
+Alive,Immunity Project,2014-01-01,0,1120000,Consumer,3,http://www.immunityproject.org
+Alive,ReadMe,2015-01-01,0,1120000,Developer Tools,4,http://www.readme.io
+Alive,StyleBee,2016-01-01,0,1120000,Marketplace,8,http://stylebee.com
+Alive,Chirply,2010-06-01,0,1100000,Marketplace,8,http://www.chirply.com
+Alive,Transcend Lighting,2015-06-01,0,1100000,Hardware,7,http://www.transcendlighting.com/
+Alive,Partnered,2012-06-01,0,1098400,Developer Tools,4,http://www.partnered.com
+Alive,NetBeez,2016-01-01,0,1045000,Enterprise,5,http://netbeez.net
+Alive,Automate Ads,2015-01-01,0,1000000,Developer Tools,4,http://automateads.com
+Alive,Open Listings,2015-01-01,0,1000000,Marketplace,8,https://www.openlistings.com
+Alive,Peer5,2017-01-01,0,1000000,Hardware,7,http://peer5.com
+Alive,Underground Cellar,2015-01-01,0,1000000,Marketplace,8,http://www.undergroundcellar.com
+Alive,Vize Software,2017-01-01,0,989367,Developer Tools,4,http://www.vize.io
+Alive,Pulpix,2016-01-01,0,970000,Developer Tools,4,https://www.pulpix.com
+Alive,RescueTime,2008-01-01,0,920000,Enterprise,5,http://rescuetime.com
+Alive,TAXA Biotechnologies,2014-06-01,0,909000,Marketplace,8,http://www.taxa.com
+Alive,ReelSurfer,2012-06-01,0,880000,Consumer,3,http://www.reelsurfer.com
+Alive,GroupAhead,2015-01-01,0,875000,Enterprise,5,http://groupahead.com/
+Alive,Playment,2017-01-01,0,870000,Enterprise,5,https://playment.io/
+Alive,FlightFox,2012-06-01,0,850980,Consumer,3,http://flightfox.com
+Alive,ClickFacts,2005-06-01,0,847708,Hardware,7,http://clickfacts.com
+Alive,NeoWize,2016-06-01,0,840000,Fintech,6,http://www.neowize.com/
+Alive,Polymail,2016-06-01,0,820000,Consumer,3,http://polymail.io
+Alive,SimpleCitizen,2016-06-01,0,820000,Consumer,3,http://www.simplecitizen.com/
+Alive,Whyd,2016-06-01,0,820000,Consumer,3,https://whyd.com
+Alive,Lawdingo,2013-01-01,0,790000,Marketplace,8,http://www.lawdingo.com
+Alive,Nightingale,2014-06-01,0,780000,Enterprise,5,http://www.nightingaleapp.com
+Alive,Siasto,2011-01-01,0,750000,Enterprise,5,http://siasto.com
+Alive,Habit Labs,2010-06-01,0,745000,Consumer,3,http://habitlabs.com
+Alive,Lively,2017-01-01,0,715000,Education,5,https://livelyme.com
+Alive,Roost,2014-06-01,0,710000,Developer Tools,4,http://roost.me/
+Alive,PayTango,2013-01-01,0,700000,Fintech,6,http://paytango.com
+Alive,Hogaru,2017-01-01,0,680000,Hardware,7,https://www.hogaru.com
+Alive,Bagaveev Corporation,2015-01-01,0,655000,Hardware,7,http://bagaveev.com
+Alive,Watchsend,2013-06-01,0,650000,Developer Tools,4,http://watchsend.com
+Alive,MashGin,2015-01-01,0,620000,Developer Tools,4,http://www.mashgin.com
+Alive,Podium,2016-01-01,0,620000,Consumer,3,https://www.podium.com
+Alive,The Ticket Fairy,2015-06-01,0,605000,Consumer,3,https://www.theticketfairy.com/
+Alive,Nova,2016-01-01,0,600000,Fintech,6,http://www.nova.ai/
+Alive,Soomgo,2017-01-01,0,592105,Marketplace,8,https://soomgo.com
+Alive,Flaviar,2014-06-01,0,514640,Consumer,3,http://flaviar.com
+Alive,ListRunner,2014-06-01,0,500000,Marketplace,8,https://listrunnerapp.com/
+Alive,Minuum,2014-01-01,0,500000,Consumer,3,http://minuum.com
+Alive,Open Invest,2015-06-01,0,500000,Hardware,7,https://www.openinvest.co/
+Alive,Snappr,2017-01-01,0,500000,Marketplace,8,http://www.snappr.co
+Alive,TenantTurner,2015-06-01,0,500000,Consumer,3,http://tenantturner.com/
+Alive,Vidly / Fliggo,2008-06-01,0,500000,Marketplace,8,http://m.vid.ly
+Alive,Moneytis,2017-01-01,0,497637,Developer Tools,4,https://moneytis.com
+Alive,Cinder,2015-01-01,0,496000,Hardware,7,http://www.cindercooks.com
+Alive,Lumi,2015-01-01,0,388000,Hardware,7,https://www.lumi.com/
+Alive,Whirl,2014-06-01,0,375000,Consumer,3,http://getwhirl.com
+Alive,Volantio,2009-01-01,0,355000,Enterprise,5,http://adioso.com
+Alive,Craft Coffee,2014-06-01,0,320000,Consumer,3,https://www.craftcoffee.com
+Alive,Bitrise,2017-01-01,0,316960,Developer Tools,4,http://www.bitrise.io/
+Alive,Buxfer,2007-01-01,0,315000,Fintech,6,http://www.buxfer.com
+Alive,MessageParty,2010-06-01,0,275000,Consumer,3,http://messageparty.com
+Alive,Amulyte,2013-06-01,0,255000,Hardware,7,http://www.amulyte.com
+Alive,Documents.me,2012-01-01,0,250000,Developer Tools,4,http://Documents.me
+Alive,Lynks,2016-01-01,0,240000,Consumer,3,https://www.lynks.com/
+Alive,Pakible,2015-01-01,0,240000,Developer Tools,4,https://pakible.com
+Alive,Markhor,2015-06-01,0,227000,Developer Tools,4,https://themarkhor.com
+Alive,Democracy Earth,2015-01-01,0,220000,Consumer,3,http://democracy.earth/
+Alive,Orankl,2014-01-01,0,201267,Consumer,3,http://www.orankl.com
+Alive,New Story Charity,2015-06-01,0,200000,Enterprise,5,http://newstorycharity.org
+Alive,LocalOn,2013-06-01,0,175000,Enterprise,5,http://www.localon.com
+Alive,Flutterwave,2016-06-01,0,170000,Developer Tools,4,https://flutterwave.com/#/?_k=x1mbmp
+Alive,Treeline,2015-01-01,0,170000,Developer Tools,4,https://sailsjs.com/about
+Alive,UPower,2014-06-01,0,170000,Marketplace,8,http://www.upowertech.com
+Alive,StoryWorth,2011-01-01,0,167000,Marketplace,8,https://www.storyworth.com
+Alive,Scaphold.io,2017-01-01,0,165000,Developer Tools,4,https://www.scaphold.io
+Alive,TeamNote,2015-01-01,0,161250,Consumer,3,http://www.teamnoteapp.com/
+Alive,Pomello,2015-01-01,0,156000,Consumer,3,https://www.pomello.com/
+Alive,Medmonk,2012-01-01,0,150177,Enterprise,5,http://medmonk.com
+Alive,Luminist,2016-01-01,0,150000,Hardware,7,http://luministlabs.com
+Alive,YouGotListings,2011-01-01,0,150000,Developer Tools,4,http://www.yougotlistings.com
+Alive,TrendMD,2016-01-01,0,149702,Developer Tools,4,http://www.trendmd.com
+Alive,Nomiku,2015-01-01,0,145000,Fintech,6,http://www.nomiku.com
+Alive,Copia,2016-01-01,0,140000,Developer Tools,4,https://www.GoCopia.com/
+Alive,HyperPad,2014-06-01,0,140000,Consumer,3,https://www.hyperpad.com
+Alive,Ledger Investing,2017-01-01,0,140000,Consumer,3,https://ledgerinvesting.com
+Alive,LendEDU,2016-01-01,0,140000,Fintech,6,http://www.lendedu.com
+Alive,Beek,2017-01-01,0,125000,Marketplace,8,https://www.beek.io/
+Alive,RankScience,2017-01-01,0,125000,Developer Tools,4,https://www.rankscience.com/
+Alive,Acre Designs,2016-01-01,0,120000,Consumer,3,http://www.acredesigns.com
+Alive,Airfordable,2016-06-01,0,120000,Marketplace,8,http://www.airfordable.com/
+Alive,Airmada,2016-01-01,0,120000,Hardware,7,http://www.airmada.com/
+Alive,Akido Labs,2015-01-01,0,120000,Enterprise,5,https://www.akidolabs.com
+Alive,Amberbox,2016-06-01,0,120000,Hardware,7,http://amberbox.com/
+Alive,ApolloShield,2016-06-01,0,120000,Hardware,7,http://www.apolloshield.com/
+Alive,AppCanary,2015-06-01,0,120000,Developer Tools,4,https://appcanary.com/
+Alive,Aptible,2014-06-01,0,120000,Marketplace,8,https://www.aptible.com
+Alive,Aptonomy,2016-06-01,0,120000,Hardware,7,http://www.aptonomy.com/home
+Alive,Athelas,2016-06-01,0,120000,Hardware,7,https://athelas.com/
+Alive,Backpack,2014-06-01,0,120000,Marketplace,8,https://backpackbang.com
+Alive,Bankjoy,2015-01-01,0,120000,Fintech,6,https://bankjoy.com/
+Alive,Bannerman,2014-06-01,0,120000,Marketplace,8,http://bannerman.com
+Alive,Bayes Impact,2014-06-01,0,120000,Marketplace,8,http://www.bayesimpact.org
+Alive,Birdly,2016-01-01,0,120000,Consumer,3,http://www.getbirdly.com
+Alive,Bodyport,2015-06-01,0,120000,Consumer,3,http://www.bodyport.com
+Alive,Bonsai,2016-01-01,0,120000,Enterprise,5,https://www.hellobonsai.com
+Alive,Bright,2015-01-01,0,120000,Developer Tools,4,http://www.brightnetwork.co.uk
+Alive,BuildScience,2015-01-01,0,120000,Enterprise,5,http://buildscience.com/
+Alive,Burrow,2016-06-01,0,120000,Developer Tools,4,https://hiburrow.com/
+Alive,Chaldal,2015-06-01,0,120000,Fintech,6,http://www.chaldal.com
+Alive,Chatfuel,2016-01-01,0,120000,Fintech,6,http://chatfuel.com/
+Alive,Chillabit,2016-01-01,0,120000,Fintech,6,https://justchillabit.com/
+Alive,Chitter,2016-01-01,0,120000,Marketplace,8,http://trychitter.com/
+Alive,Compgun,2016-01-01,0,120000,Fintech,6,http://www.compgun.com
+Alive,ConstructVR,2016-06-01,0,120000,Developer Tools,4,https://www.constructvr.io/
+Alive,Cover,2016-01-01,0,120000,Developer Tools,4,http://www.usecover.com/
+Alive,Curtsy,2016-06-01,0,120000,Marketplace,8,http://www.curtsyapp.com/
+Alive,Dealyze,2015-01-01,0,120000,Consumer,3,http://dealyze.com/
+Alive,DevColor,2016-06-01,0,120000,Developer Tools,4,http://www.devcolor.org/
+Alive,Diassess,2015-01-01,0,120000,Developer Tools,4,http://www.diassess.com
+Alive,DoseDr,2016-01-01,0,120000,Developer Tools,4,https://www.dosedr.com
+Alive,Drip Capital,2015-06-01,0,120000,Hardware,7,https://www.dripcapital.com/
+Alive,Elemeno Health,2016-06-01,0,120000,Enterprise,5,http://www.elemenohealth.com/
+Alive,Elucify,2016-01-01,0,120000,Enterprise,5,http://www.getelucify.com
+Alive,Emburse,2016-01-01,0,120000,Developer Tools,4,http://www.emburse.com/
+Alive,Emote,2016-06-01,0,120000,Developer Tools,4,http://www.emotenow.com/
+Alive,Eventgeek,2016-06-01,0,120000,Developer Tools,4,http://www.eventgeek.com/
+Alive,Exponent,2016-06-01,0,120000,Developer Tools,4,https://www.expo.io
+Alive,Fabric,2016-06-01,0,120000,Developer Tools,4,http://fabric.me/
+Alive,Fellow,2016-06-01,0,120000,Enterprise,5,https://joinfellow.com/
+Alive,Filp,2015-01-01,0,120000,Marketplace,8,http://www.justflip.com/
+Alive,Foxpass,2015-06-01,0,120000,Enterprise,5,https://www.foxpass.com
+Alive,Gecko Robotics,2016-01-01,0,120000,Hardware,7,http://www.geckorobotics.com/
+Alive,Gemnote,2015-06-01,0,120000,Hardware,7,https://www.gemnote.com
+Alive,Georgette Packaging,2016-01-01,0,120000,Hardware,7,http://www.georgettepackaging.com/
+Alive,GetAccept,2016-01-01,0,120000,Hardware,7,https://www.getaccept.com
+Alive,Give Campus,2015-06-01,0,120000,Developer Tools,4,https://www.givecampus.com/
+Alive,Giveffect,2015-01-01,0,120000,Fintech,6,https://www.giveffect.com/
+Alive,GiveMeTap,2015-01-01,0,120000,Fintech,6,http://www.givemetap.com
+Alive,GoGoGrandparent,2016-06-01,0,120000,Fintech,6,https://www.gogograndparent.com/
+Alive,GoLorry,2016-01-01,0,120000,Marketplace,8,http://www.golorry.com/
+Alive,GovPredict,2015-06-01,0,120000,Enterprise,5,https://govpredict.com/home/index
+Alive,Gradberry,2015-01-01,0,120000,Enterprise,5,http://www.gradberry.com
+Alive,Gravitational,2015-06-01,0,120000,Developer Tools,4,http://gravitational.com/
+Alive,Greenshoe,2015-06-01,0,120000,Developer Tools,4,http://getsaida.com/
+Alive,GrowSumo,2015-06-01,0,120000,Enterprise,5,https://www.GrowSumo.com
+Alive,GTrack Technologies,2016-06-01,0,120000,Hardware,7,http://www.gtracktechnologies.com/
+Alive,HauteDay,2014-06-01,0,120000,Developer Tools,4,http://hauteday.com/
+Alive,Haywheel,2016-06-01,0,120000,Developer Tools,4,http://haywheel.com
+Alive,Heroic Labs,2015-06-01,0,120000,Developer Tools,4,https://heroiclabs.com
+Alive,Hingeto,2016-01-01,0,120000,Enterprise,5,https://www.hingeto.com/
+Alive,HiOperator,2016-06-01,0,120000,Enterprise,5,http://www.hioperator.com/
+Alive,Hive,2014-06-01,0,120000,Hardware,7,https://www.hive.co
+Alive,Hykso,2016-01-01,0,120000,Marketplace,8,http://www.hykso.com
+Alive,In Your Corner,2014-06-01,0,120000,Consumer,3,http://www.inyourcorneronline.com
+Alive,Index,2016-01-01,0,120000,Consumer,3,http://www.index.io/
+Alive,Industrial Microbes,2015-01-01,0,120000,Consumer,3,http://imicrobes.com
+Alive,InnoVein,2016-01-01,0,120000,Hardware,7,http://www.innoveinmedical.com/
+Alive,Instavest,2015-01-01,0,120000,Marketplace,8,https://goinstavest.com/
+Alive,Instrumentl,2016-06-01,0,120000,Enterprise,5,https://www.instrumentl.com/
+Alive,Interstate Analytics,2016-01-01,0,120000,Enterprise,5,https://interstateanalytics.com/
+Alive,Iron Ox,2016-01-01,0,120000,Hardware,7,http://www.ironox.com/
+Alive,Ironclad,2015-06-01,0,120000,Enterprise,5,https://www.ironcladapp.com/
+Alive,jEugene,2015-06-01,0,120000,Consumer,3,https://jeugene.com/
+Alive,KickPay,2015-01-01,0,120000,Marketplace,8,http://kickpay.com
+Alive,Kip Health,2016-01-01,0,120000,Developer Tools,4,http://www.hellokip.com
+Alive,Kuna Systems,2014-01-01,0,120000,Hardware,7,http://www.getkuna.com
+Alive,Leada,2015-06-01,0,120000,Enterprise,5,https://www.teamleada.com
+Alive,Legalist,2016-06-01,0,120000,Fintech,6,https://www.legalist.us/
+Alive,Lendsnap,2016-06-01,0,120000,Fintech,6,https://lendsnap.com/
+Alive,Level,2015-01-01,0,120000,Fintech,6,https://www.levelframes.com/
+Alive,Livement,2016-06-01,0,120000,Enterprise,5,https://boletomovil.com
+Alive,Loop Genomics,2016-01-01,0,120000,Marketplace,8,http://www.loopgenomics.com/
+Alive,Luminostics,2016-06-01,0,120000,Hardware,7,http://www.luminostics.com
+Alive,Magic Bus,2016-01-01,0,120000,Hardware,7,https://www.magicbus.io/
+Alive,Mason America,2016-01-01,0,120000,Developer Tools,4,http://www.bymason.com
+Alive,Mentat,2016-06-01,0,120000,Developer Tools,4,http://www.thementat.com/
+Alive,MerryMint,2014-01-01,0,120000,Developer Tools,4,http://www.merrymint.co/
+Alive,Message.io,2016-01-01,0,120000,Marketplace,8,http://www.message.io
+Alive,MessageBird,2016-06-01,0,120000,Developer Tools,4,https://www.messagebird.com/
+Alive,Metapacket,2016-06-01,0,120000,Developer Tools,4,http://metapacket.com/
+Alive,MeterFeeder,2016-01-01,0,120000,Enterprise,5,https://www.meterfeeder.com/
+Alive,MetricWire,2014-06-01,0,120000,Enterprise,5,http://metricwire.com
+Alive,MicroHealth,2015-06-01,0,120000,Enterprise,5,https://microhealth.com/
+Alive,MineralSoft,2016-01-01,0,120000,Developer Tools,4,https://mineralsoft.com/
+Alive,MixerBox,2014-01-01,0,120000,Fintech,6,http://www.mixerbox.com
+Alive,Monthli,2016-01-01,0,120000,Fintech,6,http://www.monthli.com/
+Alive,Mosaic,2016-06-01,0,120000,Fintech,6,https://saymosaic.com
+Alive,mRelief,2016-01-01,0,120000,Marketplace,8,https://www.mrelief.com/
+Alive,Multiply Labs,2016-06-01,0,120000,Hardware,7,https://www.multiplylabs.com/
+Alive,NanoNets,2017-01-01,0,120000,Hardware,7,https://nanonets.com
+Alive,Nebia,2015-06-01,0,120000,Hardware,7,http://nebia.com/#
+Alive,Neptune.io,2014-06-01,0,120000,Developer Tools,4,http://www.neptune.io
+Alive,New Incentives,2016-06-01,0,120000,Enterprise,5,http://www.newincentives.org/
+Alive,NexTravel,2015-01-01,0,120000,Enterprise,5,https://www.nextravel.com
+Alive,Ohmygreen,2016-06-01,0,120000,Hardware,7,http://www.ohmygreen.com
+Alive,OMG Digital,2016-06-01,0,120000,Hardware,7,http://omgvoice.com
+Alive,One Codex,2014-06-01,0,120000,Enterprise,5,https://onecodex.com/
+Alive,OneChronos,2016-06-01,0,120000,Developer Tools,4,https://www.onechronos.com
+Alive,Opsolutely,2016-06-01,0,120000,Developer Tools,4,https://www.opsolutely.com/
+Alive,Outschool,2016-01-01,0,120000,Hardware,7,https://outschool.com/
+Alive,Paid,2014-06-01,0,120000,Developer Tools,4,http://paidlabs.com/
+Alive,PatientBank,2016-06-01,0,120000,Developer Tools,4,https://www.patientbank.us
+Alive,PaveIQ,2016-01-01,0,120000,Developer Tools,4,https://www.paveiq.com/
+Alive,People.ai,2016-06-01,0,120000,Hardware,7,https://people.ai/
+Alive,Physio Health,2016-01-01,0,120000,Developer Tools,4,https://physioh.com/
+Alive,Poppy,2016-01-01,0,120000,Enterprise,5,https://www.meetpoppy.com/
+Alive,Pretty Instant,2015-01-01,0,120000,Marketplace,8,http://prettyinstant.com
+Alive,Priime,2015-01-01,0,120000,Marketplace,8,http://priime.com
+Alive,Quero Education,2016-06-01,0,120000,Education,5,http://quero.education/
+Alive,QueueHop,2016-01-01,0,120000,Hardware,7,http://queuehop.com/
+Alive,Raptor Maps,2016-06-01,0,120000,Hardware,7,http://www.raptormaps.com/
+Alive,Ravti,2014-06-01,0,120000,Hardware,7,https://www.ravti.com/
+Alive,Reduced Energy Microsystems (REM),2016-01-01,0,120000,Hardware,7,http://remicro.com/
+Alive,Remix,2015-01-01,0,120000,Enterprise,5,https://www.remix.com/
+Alive,Restocks,2016-01-01,0,120000,Enterprise,5,https://www.restocks.io/
+Alive,RigPlenish,2016-06-01,0,120000,Hardware,7,http://www.rigplenish.com
+Alive,Robby,2016-06-01,0,120000,Hardware,7,https://robby.io/
+Alive,RocketLit,2016-06-01,0,120000,Education,5,http://www.rocketlit.com/
+Alive,Roomblocker,2015-06-01,0,120000,Education,5,http://www.roomblocker.com
+Alive,RoseRocket,2016-06-01,0,120000,Developer Tools,4,http://www.roserocket.com/
+Alive,San Francisco Open Exchange,2014-06-01,0,120000,Enterprise,5,https://www.sfox.com/
+Alive,Scale,2016-06-01,0,120000,Hardware,7,http://scaleapi.com
+Alive,Scribe,2017-01-01,0,120000,Enterprise,5,http://www.tryscribe.com
+Alive,Secful,2016-01-01,0,120000,Enterprise,5,http://www.secful.com/
+Alive,Selfycart,2016-06-01,0,120000,Fintech,6,https://www.selfycart.com/
+Alive,SendBird,2016-01-01,0,120000,Fintech,6,https://sendbird.com
+Alive,Seneca Systems,2016-06-01,0,120000,Enterprise,5,http://seneca.systems/
+Alive,Shotput,2015-06-01,0,120000,Marketplace,8,http://www.shotput.com/
+Alive,Shout,2014-06-01,0,120000,Marketplace,8,http://UseShout.com
+Alive,Shypmate,2016-01-01,0,120000,Marketplace,8,http://www.shypmate.com/
+Alive,Silver,2016-01-01,0,120000,Hardware,7,http://www.scansilver.com/
+Alive,SIRUM,2015-01-01,0,120000,Hardware,7,https://sirum.org/
+Alive,Slidemail,2015-01-01,0,120000,Fintech,6,None
+Alive,SmartHires,2015-01-01,0,120000,Marketplace,8,http://www.smarthires.io
+Alive,SmartPath,2016-06-01,0,120000,Enterprise,5,http://smartpathfinancial.com/
+Alive,SMARTSITE,2016-06-01,0,120000,Enterprise,5,http://www.smartsitesafety.com/
+Alive,SnapEDA,2016-01-01,0,120000,Enterprise,5,http://www.snapeda.com
+Alive,SOUNDBOKS,2016-01-01,0,120000,Marketplace,8,https://soundboks.com/
+Alive,Spinal Singularity,2016-01-01,0,120000,Hardware,7,http://www.spinalsingularity.com/
+Alive,Spoil,2015-01-01,0,120000,Hardware,7,http://spoil.co/app
+Alive,Squire,2016-06-01,0,120000,Hardware,7,http://getsquire.com
+Alive,Standard Cyborg,2015-01-01,0,120000,Hardware,7,http://standardcyborg.com
+Alive,Starcity,2016-06-01,0,120000,Fintech,6,https://joinstarcity.com/
+Alive,StartClosing,2016-01-01,0,120000,Hardware,7,http://startclosing.com/
+Alive,Stealth Worker,2016-01-01,0,120000,Marketplace,8,https://stealthworker.com/
+Alive,STILT,2016-01-01,0,120000,Marketplace,8,http://www.stilt.co
+Alive,Stitch,2016-01-01,0,120000,Marketplace,8,https://www.teamstitch.com
+Alive,StrongIntro,2016-01-01,0,120000,Fintech,6,https://strongintro.com/
+Alive,SunFarmer,2016-01-01,0,120000,Developer Tools,4,http://www.sunfarmer.org
+Alive,Supply,2015-06-01,0,120000,Hardware,7,http://www.madebysupply.com/
+Alive,Supr Daily,2017-01-01,0,120000,Hardware,7,http://www.suprdaily.com/
+Alive,Sway,2016-06-01,0,120000,Hardware,7,https://swayfinance.com
+Alive,Symple,2017-01-01,0,120000,Education,5,http://getsymple.com
+Alive,TaskPipes,2015-01-01,0,120000,Fintech,6,https://taskpipes.com
+Alive,TheMidGame,2015-01-01,0,120000,Education,5,https://www.themidgame.com
+Alive,Think Gaming,2014-06-01,0,120000,Enterprise,5,http://thinkgaming.com
+Alive,Thunkable,2016-01-01,0,120000,Enterprise,5,http://thunkable.com/
+Alive,Trac,2016-01-01,0,120000,Hardware,7,https://www.tracchicago.com
+Alive,Trackin,2015-01-01,0,120000,Hardware,7,http://trackin.co/
+Alive,Traversal Networks,2015-06-01,0,120000,Hardware,7,http://traversalnetworks.com/
+Alive,UnnyWorld,2016-01-01,0,120000,Hardware,7,http://www.unnyhog.com
+Alive,Upgraded,2016-06-01,0,120000,Enterprise,5,http://www.upgraded.io/
+Alive,Upkeep Maintenance Management,2017-01-01,0,120000,Fintech,6,http://www.onupkeep.com/
+Alive,UpLabs,2016-01-01,0,120000,Marketplace,8,http://www.uplabs.com/
+Alive,UtilityScore,2016-06-01,0,120000,Developer Tools,4,https://www.myutilityscore.com/#howitworks
+Alive,Vatler,2014-06-01,0,120000,Enterprise,5,http://www.vatler.com/
+Alive,Vernox Labs,2015-06-01,0,120000,Enterprise,5,https://www.vernox.io
+Alive,Vertical,2015-01-01,0,120000,Enterprise,5,http://vertical.ai
+Alive,Vetcove,2016-06-01,0,120000,Enterprise,5,https://www.vetcove.com/
+Alive,Vidcode,2016-06-01,0,120000,Education,5,http://www.vidcode.io
+Alive,VINEBOX,2016-01-01,0,120000,Marketplace,8,http://www.getvinebox.com/
+Alive,Vizera Labs,2014-06-01,0,120000,Developer Tools,4,http://www.vizeralabs.com/
+Alive,Vote.org,2016-06-01,0,120000,Enterprise,5,https://www.vote.org/
+Alive,Wink Health,2015-06-01,0,120000,Hardware,7,https://winkhealth.com
+Alive,X-Zell,2016-01-01,0,120000,Hardware,7,http://www.x-zell.com/
+Alive,Xberts,2016-06-01,0,120000,Marketplace,8,https://www.xberts.com/
+Alive,Xendit,2015-06-01,0,120000,Marketplace,8,http://www.xendit.co
+Alive,Yardbook,2016-01-01,0,120000,Fintech,6,http://www.yardbook.com
+Alive,Zenamins,2014-06-01,0,120000,Marketplace,8,http://zenamins.com/
+Alive,Zenflow,2015-01-01,0,120000,Developer Tools,4,http://zenflow.com
+Alive,zPredicta,2015-06-01,0,120000,Hardware,7,http://zpredicta.com
+Alive,Butter Systems,2013-06-01,0,100000,Developer Tools,4,http://buttersystems.com
+Alive,LeanMarket,2012-06-01,0,100000,Enterprise,5,https://www.leanstartupmachine.com/
+Alive,Terascore,2013-01-01,0,100000,Enterprise,5,http://www.terascore.com
+Alive,The Human Utility,2015-01-01,0,100000,Education,5,https://www.detroitwaterproject.org/
+Alive,Trade,2017-01-01,0,100000,Marketplace,8,http://www.tradeghana.co/
+Alive,WorldCover,2016-01-01,0,100000,Enterprise,5,http://worldcovr.com
+Alive,Kivo,2013-06-01,0,97000,Marketplace,8,http://www.kivo.com
+Alive,Shoobs,2014-01-01,0,94000,Fintech,6,http://shoobs.com
+Alive,InnaMed,2017-01-01,0,81142,Enterprise,5,http://www.innamed.com
+Alive,Povio,2014-01-01,0,75000,Enterprise,5,http://pov.io
+Alive,Cowlar,2017-01-01,0,50000,Developer Tools,4,http://www.cowlar.com
+Alive,Liftignighter,2014-01-01,0,50000,Fintech,6,http://www.liftigniter.com/
+Alive,Style Lend,2014-01-01,0,50000,Marketplace,8,http://stylelend.com
+Alive,OpenCurriculum,2014-01-01,0,40000,Education,5,http://opencurriculum.org/
+Alive,Seva Coffee,2015-06-01,0,28000,Fintech,6,http://www.sevacoffee.com/
+Alive,OpenTrons,2016-01-01,0,25000,Hardware,7,http://www.opentrons.com/
+Alive,Protocol Labs,2014-06-01,0,25000,Fintech,6,http://ipn.io/
+Alive,RentHop,2009-06-01,0,25000,Marketplace,8,https://www.renthop.com
+Alive,TetraScience,2015-06-01,0,25000,Enterprise,5,http://www.tetrascience.com
+Alive,FanChatter,2009-06-01,0,20000,Marketplace,8,http://fanchatter.com
+Alive,InklingMarkets,2006-01-01,0,20000,Enterprise,5,http://inklingmarkets.com
+Alive,PollEverywhere,2008-06-01,0,20000,Enterprise,5,http://www.polleverywhere.com
+Alive,Bountii,2007-06-01,0,15000,Hardware,7,http://bountii.com
+Alive,DirectedEdge,2009-06-01,0,15000,Developer Tools,4,http://www.directededge.com
+Dead,Picwing,2008-06-01,100000,10000,Consumer,3,http://www.picwing.com
+Dead,HomeJoy,2010-06-01,0,64190945,Marketplace,8,http://www.Homejoy.com
+Dead,CarWoo,2009-06-01,0,10850000,Consumer,3,http://a9car.com/
+Dead,Weave,2014-06-01,0,5000000,Consumer,3,http://www.weave.in
+Dead,Balanced,2011-01-01,0,3550000,Fintech,6,http://www.balancedpayments.com
+Dead,SlidePay,2012-01-01,0,2100000,Fintech,6,http://www.slidepay.com
+Dead,Buttercoin,2013-06-01,0,1250000,Fintech,6,http://buttercoin.com
+Dead,TrustEgg,2011-01-01,0,1150000,Fintech,6,http://www.trustegg.com
+Dead,Opzi,2010-06-01,0,1015000,Consumer,3,http://opzi.com
+Dead,Tipjoy,2008-01-01,0,1000000,B2B,1,http://www.tipjoy.com
+Dead,HelloChair,2007-06-01,0,889999,B2B,1,http://www.hellochair.com
+Dead,Close.io,2011-01-01,0,500000,Education,5,http://swipegood.com
+Dead,Install Monetizer,2012-01-01,0,500000,Marketplace,8,http://www.InstallMonetizer.com
+Dead,FitFu,2011-01-01,0,400000,Consumer,3,http://www.fitfu.com
+Dead,Kirkland North,2008-01-01,0,225000,Consumer,3,http://www.playturf.net
+Dead,Flytenow,2014-06-01,0,145000,Developer Tools,4,http://www.flytenow.com
+Dead,HaloLife,2016-01-01,0,120000,B2B,1,https://halolife.com/
+Dead,Ohm,2015-06-01,0,120000,Hardware,7,http://www.getohm.com/
+Dead,Omniref,2015-01-01,0,120000,Developer Tools,4,http://www.omniref.com
+Dead,ReSchedule,2015-01-01,0,120000,Enterprise,5,http://reschedulemed.com
+Dead,Sywork,2015-06-01,0,120000,Education,5,https://sywork.tv
+Dead,99dresses,2012-01-01,0,105651,Marketplace,8,http://99dresses.com
+Dead,Fuzzwich,2007-06-01,0,15000,Consumer,3,http://fuzzwich.com
+Dead,Snipd,2008-06-01,0,15000,Consumer,3,http://www.snipd.com
+Dead,TicketStumbler,2008-06-01,0,15000,Consumer,3,http://ticketstumbler.com
+Dead,Voxli,2009-01-01,0,15000,Consumer,3,https://voxli.com
+Dead,Splashup,2007-06-01,0,10000,Consumer,3,http://splashup.com
+Exited,RethinkDB,2009-06-01,25000,23200000,Developer Tools,4,http://www.rethinkdb.com
+Exited,GraffitiGeo,2009-06-01,100000,20000,Consumer,3,http://graffitigeo.com
+Exited,Slinkset,2008-06-01,100000,15000,Fintech,6,http://slinkset.com
+Exited,Kiko,2005-06-01,258100,50000,Marketplace,8,http://kiko.com
+Exited,Hackermeter,2013-06-01,350000,10000,Consumer,3,http://www.hackermeter.com
+Exited,VoiceGem,2012-06-01,500000,10000,Consumer,3,http://www.voicegem.com
+Exited,Data Marketplace,2010-01-01,600000,10000,B2B,1,http://www.datamarketplace.com
+Exited,Clickpass,2007-06-01,1000000,20000,B2B,1,http://www.clickpass.com
+Exited,Meetings.io,2010-01-01,2000000,1800000,Enterprise,5,http://meetings.io
+Exited,Anywhere.fm,2007-06-01,2000000,15000,Consumer,3,http://www.anywhere.fm
+Exited,Clutch.io,2011-06-01,2000000,10000,Developer Tools,4,None
+Exited,FanVibe,2010-06-01,2000000,10000,B2B,1,http://fanvibe.com
+Exited,GazeHawk,2010-06-01,2000000,10000,B2B,1,http://www.gazehawk.com
+Exited,Glassmap,2011-06-01,2000000,10000,Consumer,3,http://www.glassmap.com
+Exited,Sendoid,2011-01-01,2000000,10000,Enterprise,5,http://sendoid.com
+Exited,Stypi,2011-06-01,2000000,10000,Developer Tools,4,http://www.stypi.com
+Exited,TapEngage,2011-06-01,2000000,10000,Consumer,3,http://www.tapengage.com
+Exited,BridgeUs,2011-06-01,2000000,10000,B2B,1,http://
+Exited,BufferBox,2012-06-01,3000000,1000000,Consumer,3,http://www.bufferbox.com
+Exited,Etacts,2010-01-01,3000000,740000,Developer Tools,4,http://www.etacts.com
+Exited,Fridge,2010-06-01,3000000,80000,B2B,1,http://www.frid.ge
+Exited,Lingt,2009-06-01,3000000,10000,Education,5,http://www.lingt.com
+Exited,reMail,2009-01-01,3000000,10000,Marketplace,8,http://www.remail.com
+Exited,TextPayMe,2005-06-01,3000000,10000,Consumer,3,http://www.textpayme.com
+Exited,Heysan,2007-01-01,4000000,875000,Developer Tools,4,http://www.heysan.com
+Exited,Zenter,2007-01-01,4000000,15000,B2B,1,None
+Exited,ProjectWedding,2006-01-01,4000000,10000,Consumer,3,http://www.projectwedding.com
+Exited,Backtype,2008-06-01,5000000,1315000,Marketplace,8,http://www.backtype.com
+Exited,Auctomatic,2007-01-01,5000000,400000,Biomedical,2,http://auctomatic.com
+Exited,Divvyshot,2009-01-01,5000000,10000,B2B,1,http://divvyshot.com
+Exited,Echodio,2009-01-01,5000000,10000,Consumer,3,http://www.echodio.com
+Exited,Parakey,2005-06-01,5000000,10000,Education,5,http://www.parakey.com
+Exited,Snapjoy,2011-06-01,5000000,10000,Developer Tools,4,http://snapjoy.com
+Exited,SocialPicks,2007-06-01,8000000,500000,Consumer,3,http://www.socialpicks.com
+Exited,Appjet,2007-06-01,9000000,715000,Developer Tools,4,http://appjet.com
+Exited,Posterous,2008-06-01,10000000,10140000,Consumer,3,http://posterous.com
+Exited,DailyBooth,2009-06-01,10000000,7015000,Consumer,3,http://dailybooth.com/
+Exited,Zecter,2007-06-01,10000000,2515000,Developer Tools,4,http://www.zecter.com
+Exited,Mertado,2010-01-01,10000000,2300000,Marketplace,8,http://www.mertado.com
+Exited,AdGrok,2010-06-01,10000000,470000,Enterprise,5,http://adgrok.com
+Exited,1000Memories,2010-06-01,15000000,2535000,Consumer,3,http://1000memories.com
+Exited,Flightcaster,2009-06-01,15000000,1300000,Marketplace,8,http://www.flightcaster.com
+Exited,Movity,2010-01-01,15000000,1300000,Consumer,3,http://www.movity.com
+Exited,Meldium,2013-01-01,15000000,1000000,Enterprise,5,http://www.meldium.com
+Exited,Rapportive,2010-06-01,15000000,1000000,Consumer,3,http://rapportive.com
+Exited,Omnisio,2008-01-01,15000000,10000,Developer Tools,4,http://omnisio.com
+Exited,TalkBin,2011-01-01,15000000,10000,B2B,1,http://www.talkbin.com
+Exited,Reddit,2005-06-01,20000000,50100000,Education,5,http://www.reddit.com
+Exited,ProductHunt,2014-06-01,20000000,7540000,Consumer,3,http://www.producthunt.com
+Exited,280 North,2008-01-01,20000000,250000,Developer Tools,4,http://280north.com
+Exited,Perfect Audience,2011-06-01,22800000,2460000,Developer Tools,4,http://perfectaudience.com
+Exited,Pebble Technology,2011-01-01,23000000,58813829,Hardware,7,https://www.pebble.com/
+Exited,MailGun,2011-01-01,30000000,51100000,Developer Tools,4,http://www.mailgun.net
+Exited,Bump,2009-06-01,30000000,19900000,Developer Tools,4,http://bu.mp
+Exited,Cloudkick,2009-01-01,30000000,2750000,Developer Tools,4,http://cloudkick.com
+Exited,Zencoder,2010-01-01,30000000,2000000,Developer Tools,4,http://zencoder.com
+Exited,Wufoo,2006-01-01,35000000,10000,Consumer,3,http://wufoo.com
+Exited,Flutter,2012-01-01,40000000,1400000,Developer Tools,4,http://flutterapp.com
+Exited,Loopt,2005-06-01,43400000,39105997,Consumer,3,http://www.loopt.com
+Exited,Heyzap,2009-01-01,45000000,7995000,Consumer,3,http://www.heyzap.com
+Exited,Xobni,2006-06-01,48000000,41752000,Developer Tools,4,http://www.xobni.com
+Exited,Cue,2010-01-01,50000000,4715000,Developer Tools,4,http://www.cueup.com
+Exited,CardPool,2010-01-01,50000000,10000,Marketplace,8,http://www.cardpool.com
+Exited,Hipmunk,2010-06-01,58000000,54983999,B2B,1,http://www.hipmunk.com
+Exited,SocialCam,2012-01-01,60000000,10000,Consumer,3,http://socialcam.com
+Exited,Allscreen,2010-01-01,85000000,500000,B2B,1,http://www.allscreenhq.com
+Exited,Caviar,2011-06-01,90000000,15000000,Marketplace,8,http://www.trycaviar.com
+Exited,Parse,2011-06-01,90000000,7000000,Developer Tools,4,http://parse.com
+Exited,Automatic,2011-06-01,100000000,24000000,Hardware,7,http://automatic.com
+Exited,FutureAdvisor,2010-06-01,150000000,21500000,Fintech,6,http://www.futureadvisor.com
+Exited,OMGPOP,2006-06-01,200000000,16600000,Consumer,3,http://omgpop.com
+Exited,Heroku,2008-01-01,250000000,13020000,Developer Tools,4,http://www.heroku.com
+Exited,Twitch,2007-01-01,970000000,35000000,Marketplace,8,http://www.twitch.tv
+Exited,Cruise,2014-01-01,1000000000,18800000,Enterprise,5,http://www.getcruise.com
+Exited,Tilt,2012-01-01,67100000,67100000,Consumer,3,http://www.tilt.com
+Exited,FlightCar,2013-01-01,40428608,40428608,Marketplace,8,http://flightcar.com
+Exited,Docker,2010-06-01,28679147,28679147,Developer Tools,4,http://www.dotcloud.com
+Exited,Cloudant,2008-06-01,18250000,18250000,Developer Tools,4,http://cloudant.com
+Exited,Raven Tech,2015-01-01,18120000,18120000,Hardware,7,http://www.raventech.com/
+Exited,Coin,2013-01-01,15500000,15500000,Biomedical,2,https://onlycoin.com
+Exited,URX,2013-06-01,15100000,15100000,Developer Tools,4,http://urx.com
+Exited,Shopular,2012-01-01,13597710,13597710,Marketplace,8,http://shopular.com
+Exited,SpoonRocket,2013-06-01,13500000,13500000,Consumer,3,http://www.spoonrocket.com
+Exited,500Friends,2010-01-01,12900000,12900000,Enterprise,5,http://www.500Friends.com
+Exited,OrderAhead,2011-01-01,10500000,10500000,Consumer,3,http://orderaheadapp.com
+Exited,SendHub,2012-01-01,10000000,10000000,Enterprise,5,http://sendhub.com
+Exited,Firebase,2011-06-01,7000000,7000000,Developer Tools,4,http://www.firebase.com
+Exited,Compose,2011-06-01,6417000,6417000,Developer Tools,4,http://compose.io
+Exited,Kimono,2014-01-01,5000000,5000000,Consumer,3,https://www.kimonolabs.com/
+Exited,ReadyForZero,2010-06-01,4777000,4777000,Fintech,6,https://www.readyforzero.com
+Exited,Couple,2012-01-01,4200000,4200000,Consumer,3,http://couple.me
+Exited,Pixate,2012-06-01,3800000,3800000,Developer Tools,4,http://www.pixate.com
+Exited,Fixed,2014-06-01,3750000,3750000,Consumer,3,https://www.fixedlaw.com
+Exited,Exec,2012-01-01,3300000,3300000,Marketplace,8,http://iamexec.com
+Exited,Authy,2012-01-01,3067000,3067000,Developer Tools,4,http://www.authy.com
+Exited,Chariot,2015-01-01,3000000,3000000,Fintech,6,https://www.chariot.com
+Exited,Wit.ai,2014-01-01,3000000,3000000,Developer Tools,4,https://www.wit.ai/
+Exited,Kicksend,2011-06-01,2800000,2800000,Consumer,3,http://kicksend.com
+Exited,WorkLife,2015-01-01,2720000,2720000,Consumer,3,https://www.worklife.com
+Exited,Standard Treasury,2013-06-01,2700000,2700000,Biomedical,2,http://standardtreasury.com
+Exited,GetGoing,2012-06-01,2500000,2500000,Consumer,3,http://www.getgoing.com
+Exited,FreshPlum,2011-06-01,2484999,2484999,Developer Tools,4,http://www.freshplum.com
+Exited,Paribus,2015-06-01,2220000,2220000,Consumer,3,https://paribus.co
+Exited,Amiato,2012-01-01,2000000,2000000,Hardware,7,http://www.amiato.com
+Exited,Bop.fm,2013-06-01,2000000,2000000,Hardware,7,http://www.bop.fm
+Exited,Framed Data,2014-01-01,2000000,2000000,Developer Tools,4,http://www.framed.io
+Exited,Screenhero,2013-01-01,1800000,1800000,Enterprise,5,http://screenhero.com
+Exited,Tutorspree,2011-01-01,1800000,1800000,Marketplace,8,http://www.tutorspree.com
+Exited,Vanhawks,2015-01-01,1600000,1600000,Enterprise,5,http://www.vanhawks.com/
+Exited,DataRank,2013-06-01,1588000,1588000,B2B,1,http://www.datarank.com
+Exited,Vest,2015-01-01,1470000,1470000,Enterprise,5,https://www.vestfin.com/
+Exited,Vest,2015-06-01,1470000,1470000,Enterprise,5,https://www.vestfin.com/
+Exited,Lanyrd,2011-01-01,1400000,1400000,Consumer,3,http://lanyrd.com
+Exited,Loom,2012-01-01,1400000,1400000,Marketplace,8,http://www.loom.com
+Exited,Launchpad Toys,2011-06-01,1117000,1117000,Education,5,http://launchpadtoys.com
+Exited,Embedly,2010-01-01,1020000,1020000,Developer Tools,4,http://embed.ly
+Exited,Embark,2011-06-01,1000000,1000000,Hardware,7,http://letsembark.com
+Exited,FamilyLeaf,2012-01-01,984000,984000,Consumer,3,http://familyleaf.com
+Exited,Streem,2012-06-01,875000,875000,Consumer,3,https://www.streem.com
+Exited,JustSpotted,2008-06-01,765000,765000,Marketplace,8,http://www.justspotted.com
+Exited,Earbits,2011-01-01,630000,630000,B2B,1,http://www.earbits.com
+Exited,Leftronic,2010-06-01,500000,500000,Fintech,6,http://www.leftronic.com
+Exited,Octopart,2007-01-01,374999,374999,B2B,1,http://octopart.com
+Exited,Cryptoseal,2011-06-01,280000,280000,Developer Tools,4,http://www.cryptoseal.com
+Exited,Rescue Forensics,2015-01-01,245000,245000,Enterprise,5,http://www.rescueforensics.com/
+Exited,Redspread,2016-01-01,240000,240000,Developer Tools,4,https://redspread.com/
+Exited,Sphere Secure Workplace,2015-06-01,142266,142266,Consumer,3,http://www.sphere.works
+Exited,Bizzy.io,2015-06-01,120000,120000,Developer Tools,4,http://bizzy.io
+Exited,Spark Gift,2015-01-01,120000,120000,Consumer,3,http://sparkgift.com
+Exited,StatusPage,2013-06-01,100000,100000,Hardware,7,http://www.statuspage.io
