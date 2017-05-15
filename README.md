@@ -1,1 +1,1 @@
-![Markdown](https://github.com/swlincode/ycg/tree/master/arch/screen.png)
+![Markdown](https://github.com/swlincode/ycg/blob/master/arch/screen.png)
