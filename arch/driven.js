@@ -260,13 +260,17 @@ function renderExited(dataSet){
                             return yScale(d.Funding);
 
                         },
-                r: function(d){
-                        return rScale(d.ExitValue*5);
-                        },
                 fill: function(d){
                     return "#00b129";
                         }
             })
+            .attr({r: function(d){
+                        return rScale(d.ExitValue);
+                        }})
+            .transition().duration(200).ease("elastic")
+            .attr({r: function(d){
+                        return rScale(d.ExitValue*5);
+                        }})
 
            tooltip.select("#city").text(d.Name); 
            tooltip.select("#industry")
@@ -423,7 +427,7 @@ function btnList(dataSet){
             "value": function(d){
                 return d; 
             },
-        "class":"btn btn-default"
+        "class":"btn btn-default",
         })
         .on("click",function(d){
           
