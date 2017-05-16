@@ -3,7 +3,8 @@
             background: #939594;
         }
         .axis path, .axis line{
-            fill: none;
+/*            fill: none;*/
+            fill: rgba(0,0,0,0);
             stroke: black;
             shape-rendering: auto;
         }
@@ -12,7 +13,7 @@
         }
         #tooltip{
               color:floralwhite;
-            font-size: 15px;
+              font-size: 15px;
               position: absolute;
               background: #00905e;
               width: 180px;
@@ -24,4 +25,33 @@
              #tooltip.hidden{
               display: none;
             }
+   #tooltip2{
+              color:floralwhite;
+              font-size: 15px;
+              position: absolute;
+              background: #00905e;
+              width: 180px;
+              height: auto;
+              padding: 5px 15px;
+              border-radius: 5px;
+              box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+            }
+             #tooltip2.hidden{
+              display: none;
+            }
+
+        path { 
+            stroke: #ff5cc0;
+            stroke-width: 0.35;
+            fill: none;
+            fill: rgba(0,0,0,0);
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: grey;
+            stroke-width: 1;
+            shape-rendering: crispEdges;
+        }
     </style>

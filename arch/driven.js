@@ -1,15 +1,14 @@
-
 var w = 900;
 var h = 600;
 var p = 68;
 
-
+ 
 svg();       
 
 d3.csv("arch/clean-zero.csv", mid, function(dataSet){
    bind(dataSet);
    btnList(dataSet);
-    render(dataSet);
+   render(dataSet);
 
 });
 
@@ -67,15 +66,15 @@ function render(dataSet){
     var minDomain = d3.min(dataSet,function(d){return d.Funding});
     var yScale = d3.scale.linear()
             .domain([1, 
-                     100000,
-                     10000000,
-                     10000000*8,
+//                     100000,
+//                     10000000,
+//                     10000000*9,
                      maxDomain
                     ])
             .range([h-p,
-                    (h-p)*0.9,
-                    (h-p)*0.7,
-                    (h-p)*0.2,
+//                    (h-p)*0.95,
+//                    (h-p)*0.7,
+//                    (h-p)*0.1,
                     p
                    ]);
    var rScale = d3.scale.linear()
@@ -159,18 +158,28 @@ function render(dataSet){
                 .orient("bottom")
                 .ticks(20);
     var yAxisScale = d3.scale.linear()
+//              .domain([1, 
+//                     100000,
+//                     10000000,
+//                     10000000*9,
+//                     maxDomain
+//                    ])
+//               .range([h-p,
+//                    (h-p)*0.95,
+//                    (h-p)*0.7,
+//                    (h-p)*0.1,
+//                    p
+//                   ]);
             .domain([1, 
-
                      maxDomain
                     ])
             .range([h-p,
-
                     p
                    ]);
     var yAxis = d3.svg.axis()
                 .scale(yScale)
                 .orient("left")
-                .ticks(2)
+                .ticks(10)
                 .tickFormat(function(d){
                     return d/1000000+"M"; 
                 });
@@ -185,8 +194,8 @@ function render(dataSet){
         .attr("transform", "translate(0,"+(h-p+10)+")")
         .call(xAxis);
 
-
 }
+
 
 
 
@@ -261,10 +270,10 @@ function renderExited(dataSet){
 
            tooltip.select("#city").text(d.Name); 
            tooltip.select("#industry")
-               .text(round(d.ExitValue/1000000, 1) + 
+               .text("Exit: "+round(d.ExitValue/1000000, 0) + 
                       " / " + 
                       round(d.Funding/1000000, 1)
-                      + "million"
+                      + " million"
                      );
            tooltip.select("#categorie").text((d.Categorie));
            tooltip.classed("hidden",false);    
@@ -445,4 +454,59 @@ function btnList(dataSet){
     };
 
 
+    
+// NASDAQ
+// Parse the date / time
+var parseDate = d3.time.format("%Y-%m-%d").parse;
+//var parseDate = d3.time.format("%d-%b-%y").parse;
+
+// Set the ranges
+var xTime = d3.time.scale().range([p,w-p]);
+var yLinear = d3.scale.linear().range([h-p, p]);
+
+// Define the line
+var valueline = d3.svg.line()
+    .x(function(d) { return xTime(d.date); })
+    .y(function(d) { return yLinear(d.close); });
+
+// Get the data
+d3.csv("arch/nasData.csv", function(error, nasData) {
+    nasData.forEach(function(d) {
+        d.date = parseDate(d.date);
+        d.close = +d.close;
+    });
+
+    // Scale the range of the data
+    xTime.domain(d3.extent(nasData, function(d) { return d.date; }));
+    yLinear.domain([0, d3.max(nasData, function(d) { return d.close; })]);
+
+    // Add the valueline path.
+    d3.select("body")
+        .select("svg")
+        .append("path")
+        .attr("class", "line")
+        .attr("d", valueline(nasData))
+////        .on("mouseover",function(d){
+////           var posX = d3.select(this).attr("cx") 
+////           var posY = d3.select(this).attr("cy")
+////           var tooltip = d3.select("#tooltip")
+////                           .style({
+////                               "left":(+posX+20)+"px", 
+////                               "top":(+posY+20)+"px", 
+////                           });
+//        
+////           d3.select(this).attr({"r":"13","stroke":"#053134","stroke-width":"1.5"})
+//           d3.select("#tooltip2")
+//               .select("#close")
+//               .text(d.close); 
+//           d3.select("#tooltip2").classed("hidden",false); 
+    });
 }
+// END OF NASDAQ
+    
+    
+    
+    
+    
+    
+    
